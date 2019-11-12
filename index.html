@@ -1,41 +1,39 @@
 <html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-  </head>
-  <body>
-    <h1>
-      Cronjington.com: Home of all things Cronjington related <br>
-    </h1>
-	  <div id="twitch-embed"></div>
+	<head>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+		<h1>
+		Cronjington.com: Home of all things Cronjington related <br>
+		</h1>
 
-				<!-- Load the Twitch embed script -->
-				<script src="https://embed.twitch.tv/embed/v1.js"></script>
+		<div class="column">
+			<!-- Add a placeholder for the Twitch embed -->
+			<div id="twitch-embed"></div>
 
-				<!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
-				<script type="text/javascript">
+			<!-- Load the Twitch embed script -->
+			<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+			<!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+			<script type="text/javascript">
 				new Twitch.Embed("twitch-embed", {
 				width: 854,
 				height: 480,
 				channel: "b3arodactyl"
 				});
-				</script>
-	  <table style="width:100%">
-		  <tr>
-			<th>
-				
+			</script>
+		  </div>
+		  <div class="column">	  
+			<a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" href="https://twitter.com/b3arodactyl?ref_src=twsrc%5Etfw">Tweets by b3arodactyl</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		  </div>
 
-			</th>
-			<th>
-			    <a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" href="https://twitter.com/b3arodactyl?ref_src=twsrc%5Etfw">Tweets by b3arodactyl</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-			</th>
-		  </tr>
-	  </table>
-	  
 
-  <marquee direction="down" width="500" height="400" behavior="alternate" style="border:transparent" truespeed="">
-	<marquee behavior="alternate" truespeed="" scrolldelay="10">
-		<a href="https://www.rataids.com"><img src="https://i.imgur.com/7z3dZfi.png"></img></a>
-	</marquee>
-  </marquee>
-  </body>
+
+
+		<marquee direction="down" width="500" height="400" behavior="alternate" style="border:transparent" truespeed="">
+			<marquee behavior="alternate" truespeed="" scrolldelay="10">
+				<a href="https://www.rataids.com"><img src="https://i.imgur.com/7z3dZfi.png"></img></a>
+			</marquee>
+		</marquee>
+	</body>
 </html>
