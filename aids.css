@@ -1,0 +1,16 @@
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/p720x720/35328835_175283709827151_5596380822350331904_o.jpg?_nc_cat=102&_nc_oc=AQlX8xGK580j64yy6PxOCNT4idD3K5Uc8CPlkfdkp0syjzdqnxSiP9xT2a00Sp_HqQs&_nc_ht=scontent.fbed1-2.fna&oh=9fba6da2344bff965d3c2b9529d0679f&oe=5E6056DE");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
