@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: exuanbo/actions-deploy-gist@v1
         with:
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           gist_id: eada3fe4fe9fe54e1bb4f413404d9b24
           file_path: README.md
           file_type: binary
