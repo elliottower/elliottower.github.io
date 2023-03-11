@@ -1,8 +1,19 @@
-- uses actions/checkout@v3
-- name: Deploy
-  uses: exuanbo/actions-deploy-gist@v1
-  with:
-    token: ${{ secrets.TOKEN }}
-    gist_id: eada3fe4fe9fe54e1bb4f413404d9b24
-    file_path: README.md
-    file_type: binary
+name: Deploy to gist
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: eada3fe4fe9fe54e1bb4f413404d9b24
+          file_path: README.md
+          file_type: binary
