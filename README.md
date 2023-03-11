@@ -22,4 +22,6 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## 📄 Resume
 
 <!-- PDF-TO-MARKDOWN:START -->
+![Page 1](src/png/page1.png "Page 1")
+---
 <!-- PDF-TO-MARKDOWN:END -->
