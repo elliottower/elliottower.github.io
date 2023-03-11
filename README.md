@@ -15,7 +15,6 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 
 

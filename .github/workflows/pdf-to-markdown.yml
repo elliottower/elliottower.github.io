@@ -1,4 +1,4 @@
-name: Resume PDF To Markdown
+name: PDF To Markdown
 
 on:
   push:
