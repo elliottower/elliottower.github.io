@@ -14,12 +14,6 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. ❗️ Closed issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-3. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-4. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-5. ❗️ Opened issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-<!--END_SECTION:activity-->
 
 
 
