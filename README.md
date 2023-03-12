@@ -1,4 +1,4 @@
-# elliottower.github.io
+# [elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
 
 ### Hi there 👋
 
