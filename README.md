@@ -16,8 +16,8 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
  [![Send me an Email](https://img.shields.io/badge/email-elliot%40elliottower.com-blue)](mailto:elliot@elliottower.com)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elliot-tower)
- ![GitHub followers](https://img.shields.io/github/followers/elliottower?style=social)
-
+ [![GitHub followers](https://img.shields.io/github/followers/elliottower?style=social)](https://github.com/elliottower/)
+ 
 ## ⚡ [Recent Activity](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
