@@ -8,12 +8,14 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 💥 A live version of Gobblet running in the browser can be viewed [here](https://elliottower.github.io/gobblet-rl/) (uses WebAssembly to run Python code in a virtual machine, see [tutorial](https://github.com/elliottower/gobblet-rl/blob/main/tutorials/WebAssembly/web_assembly.md) for details)
 
+
 ## 📫 How to reach me:
 
  [![Send me an Email](https://img.shields.io/badge/email-elliot%40elliottower.com-blue)](mailto:elliot@elliottower.com)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elliot-tower)
  [![GitHub followers](https://img.shields.io/github/followers/elliottower?style=social)](https://github.com/elliottower/)
  
+
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
@@ -28,6 +30,7 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 9. ❗️ Opened issue [#18](https://github.com/pygame-web/pkg-porting-wasm/issues/18) in [pygame-web/pkg-porting-wasm](https://github.com/pygame-web/pkg-porting-wasm)
 10. ❗️ Opened issue [#17](https://github.com/pygame-web/pkg-porting-wasm/issues/17) in [pygame-web/pkg-porting-wasm](https://github.com/pygame-web/pkg-porting-wasm)
 <!--END_SECTION:activity-->
+
 
 ## 🖥️ [Weekly development breakdown](https://wakatime.com/@elliottower)
 <!--START_SECTION:waka-->
