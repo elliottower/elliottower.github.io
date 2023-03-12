@@ -26,7 +26,9 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 10. 🗣 Commented on [#113](https://github.com/deepmind/meltingpot/issues/113) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 ## 📄 Resume
