@@ -1,5 +1,9 @@
 # [elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
 
+[![pages-build-deployment](https://github.com/elliottower/elliottower.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/elliottower/elliottower.github.io/actions/workflows/pages/pages-build-deployment)
+[![PDF To Markdown](https://github.com/elliottower/elliottower.github.io/actions/workflows/pdf-to-markdown.yml/badge.svg)](https://github.com/elliottower/elliottower.github.io/actions/workflows/pdf-to-markdown.yml)
+[![Update README](https://github.com/elliottower/elliottower.github.io/actions/workflows/update-readme.yml/badge.svg)](https://github.com/elliottower/elliottower.github.io/actions/workflows/update-readme.yml)
+
 ### Hi there 👋
 
 I'm Elliot. I enjoy creating tools for machine learning research, particularly Reinforcement Learning. 
