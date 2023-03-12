@@ -8,12 +8,13 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 💥 A live version of Gobblet running in the browser can be viewed [here](https://elliottower.github.io/gobblet-rl/) (uses WebAssembly to run Python code in a virtual machine, see [tutorial](https://github.com/elliottower/gobblet-rl/blob/main/tutorials/WebAssembly/web_assembly.md) for details)
 
-📫 How to reach me:
+## 📫 How to reach me:
 
  [![Send me an Email](https://img.shields.io/badge/email-elliot%40elliottower.com-blue)](mailto:elliot@elliottower.com)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elliot-tower)
+ ![GitHub followers](https://img.shields.io/github/followers/elliottower?style=social)
 
-## ⚡ Recent Activity
+## ⚡ [Recent Activity](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
@@ -33,7 +34,7 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 <!--END_SECTION:waka-->
 
 
-## 📄 Resume
+## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
 
 <!-- PDF-TO-MARKDOWN:START -->
 ![Page 1](src/png/page1.png "Page 1")
