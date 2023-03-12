@@ -1,9 +1,5 @@
 # [elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
 
-[![pages-build-deployment](https://github.com/elliottower/elliottower.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/elliottower/elliottower.github.io/actions/workflows/pages/pages-build-deployment)
-[![PDF To Markdown](https://github.com/elliottower/elliottower.github.io/actions/workflows/pdf-to-markdown.yml/badge.svg)](https://github.com/elliottower/elliottower.github.io/actions/workflows/pdf-to-markdown.yml)
-[![Update README](https://github.com/elliottower/elliottower.github.io/actions/workflows/update-readme.yml/badge.svg)](https://github.com/elliottower/elliottower.github.io/actions/workflows/update-readme.yml)
-
 ### Hi there 👋
 
 I'm Elliot. I enjoy creating tools for machine learning research, particularly Reinforcement Learning. 
@@ -18,7 +14,7 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elliot-tower)
  [![GitHub followers](https://img.shields.io/github/followers/elliottower?style=social)](https://github.com/elliottower/)
  
-## ⚡ [Recent Activity](https://github.com/elliottower)
+## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
@@ -33,6 +29,7 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 10. ❗️ Opened issue [#17](https://github.com/pygame-web/pkg-porting-wasm/issues/17) in [pygame-web/pkg-porting-wasm](https://github.com/pygame-web/pkg-porting-wasm)
 <!--END_SECTION:activity-->
 
+## 🖥️ [Weekly development breakdown](https://wakatime.com/@elliottower)
 <!--START_SECTION:waka-->
 
 ```text
