@@ -19,15 +19,15 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#901](https://github.com/Farama-Foundation/PettingZoo/issues/901) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+1. 🗣 Commented on [#896](https://github.com/Farama-Foundation/PettingZoo/issues/896) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#901](https://github.com/Farama-Foundation/PettingZoo/issues/901) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 3. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-4. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-5. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-6. ❗️ Opened issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-7. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. ❗️ Closed issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-9. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
+4. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+5. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
+6. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
+7. ❗️ Opened issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
+8. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. ❗️ Closed issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
 10. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
 <!--END_SECTION:activity-->
 
