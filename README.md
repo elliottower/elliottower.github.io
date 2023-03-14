@@ -20,15 +20,15 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-2. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-3. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-4. ❗️ Opened issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-5. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. ❗️ Closed issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-7. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
+2. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+3. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
+4. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
+5. ❗️ Opened issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
+6. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. ❗️ Closed issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
 8. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-9. ❗️ Opened issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-10. ❗️ Opened issue [#18](https://github.com/pygame-web/pkg-porting-wasm/issues/18) in [pygame-web/pkg-porting-wasm](https://github.com/pygame-web/pkg-porting-wasm)
+9. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
+10. ❗️ Opened issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
 <!--END_SECTION:activity-->
 
 
