@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#896](https://github.com/Farama-Foundation/PettingZoo/issues/896) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#901](https://github.com/Farama-Foundation/PettingZoo/issues/901) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-4. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-5. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-6. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-7. ❗️ Opened issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
-8. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. ❗️ Closed issue [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
-10. 🗣 Commented on [#76](https://github.com/pygame-web/pygbag/issues/76) in [pygame-web/pygbag](https://github.com/pygame-web/pygbag)
+1. 💪 Opened PR [#903](https://github.com/Farama-Foundation/PettingZoo/pull/903) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#863](https://github.com/Farama-Foundation/PettingZoo/issues/863) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#877](https://github.com/Farama-Foundation/PettingZoo/issues/877) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#888](https://github.com/Farama-Foundation/PettingZoo/issues/888) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#895](https://github.com/Farama-Foundation/PettingZoo/issues/895) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#896](https://github.com/Farama-Foundation/PettingZoo/issues/896) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#901](https://github.com/Farama-Foundation/PettingZoo/issues/901) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+9. 🗣 Commented on [#313](https://github.com/Farama-Foundation/Minigrid/issues/313) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+10. ❗️ Closed issue [#135](https://github.com/matchai/waka-box/issues/135) in [matchai/waka-box](https://github.com/matchai/waka-box)
 <!--END_SECTION:activity-->
 
 
