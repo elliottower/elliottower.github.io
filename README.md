@@ -32,7 +32,7 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 <!--END_SECTION:activity-->
 
 
-## 🖥️ [Monthly development breakdown](https://wakatime.com/@elliottower)
+## 🖥️ [Weekly development breakdown](https://wakatime.com/@elliottower)
 <!--START_SECTION:waka-->
 
 ```text
