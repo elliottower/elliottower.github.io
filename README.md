@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
-2. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-3. ❗️ Opened issue [#9](https://github.com/rajcscw/nlp-gym/issues/9) in [rajcscw/nlp-gym](https://github.com/rajcscw/nlp-gym)
-4. ❗️ Opened issue [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
-5. ❗️ Opened issue [#67](https://github.com/mpSchrader/gym-sokoban/issues/67) in [mpSchrader/gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
-6. ❗️ Opened issue [#8](https://github.com/elbecerrasoto/gym-cellular-automata/issues/8) in [elbecerrasoto/gym-cellular-automata](https://github.com/elbecerrasoto/gym-cellular-automata)
-7. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
-8. ❗️ Opened issue [#789](https://github.com/facebookresearch/CompilerGym/issues/789) in [facebookresearch/CompilerGym](https://github.com/facebookresearch/CompilerGym)
-9. ❗️ Opened issue [#12](https://github.com/axelbr/racecar_gym/issues/12) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-10. ❗️ Opened issue [#21](https://github.com/learn-to-race/l2r/issues/21) in [learn-to-race/l2r](https://github.com/learn-to-race/l2r)
+1. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
+2. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
+3. ❗️ Opened issue [#138](https://github.com/upb-lea/openmodelica-microgrid-gym/issues/138) in [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
+4. ❗️ Opened issue [#39](https://github.com/AminHP/gym-mtsim/issues/39) in [AminHP/gym-mtsim](https://github.com/AminHP/gym-mtsim)
+5. ❗️ Opened issue [#85](https://github.com/AminHP/gym-anytrading/issues/85) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+6. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
+7. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+8. ❗️ Opened issue [#9](https://github.com/rajcscw/nlp-gym/issues/9) in [rajcscw/nlp-gym](https://github.com/rajcscw/nlp-gym)
+9. ❗️ Opened issue [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
+10. ❗️ Opened issue [#67](https://github.com/mpSchrader/gym-sokoban/issues/67) in [mpSchrader/gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
 <!--END_SECTION:activity-->
 
 
