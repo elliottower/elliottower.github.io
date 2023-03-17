@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-2. ❗️ Opened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-3. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-4. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-5. ❗️ Opened issue [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-6. ❗️ Opened issue [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-7. 🗣 Commented on [#877](https://github.com/Farama-Foundation/PettingZoo/issues/877) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#895](https://github.com/Farama-Foundation/PettingZoo/issues/895) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#895](https://github.com/Farama-Foundation/PettingZoo/issues/895) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#5878](https://github.com/Unity-Technologies/ml-agents/issues/5878) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+1. ❗️ Opened issue [#321](https://github.com/StanfordVL/iGibson/issues/321) in [StanfordVL/iGibson](https://github.com/StanfordVL/iGibson)
+2. ❗️ Opened issue [#20](https://github.com/skim0119/gym-softrobot/issues/20) in [skim0119/gym-softrobot](https://github.com/skim0119/gym-softrobot)
+3. ❗️ Opened issue [#125](https://github.com/utiasDSL/safe-control-gym/issues/125) in [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym)
+4. ❗️ Opened issue [#37](https://github.com/offworld-projects/offworld-gym/issues/37) in [offworld-projects/offworld-gym](https://github.com/offworld-projects/offworld-gym)
+5. ❗️ Opened issue [#73](https://github.com/jr-robotics/robo-gym/issues/73) in [jr-robotics/robo-gym](https://github.com/jr-robotics/robo-gym)
+6. ❗️ Opened issue [#8](https://github.com/dimikout3/MarsExplorer/issues/8) in [dimikout3/MarsExplorer](https://github.com/dimikout3/MarsExplorer)
+7. ❗️ Opened issue [#139](https://github.com/utiasDSL/gym-pybullet-drones/issues/139) in [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones)
+8. ❗️ Opened issue [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
+9. ❗️ Opened issue [#5884](https://github.com/Unity-Technologies/ml-agents/issues/5884) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+10. ❗️ Opened issue [#19](https://github.com/hardmaru/slimevolleygym/issues/19) in [hardmaru/slimevolleygym](https://github.com/hardmaru/slimevolleygym)
 <!--END_SECTION:activity-->
 
 
