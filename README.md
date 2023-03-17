@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#321](https://github.com/StanfordVL/iGibson/issues/321) in [StanfordVL/iGibson](https://github.com/StanfordVL/iGibson)
-2. ❗️ Opened issue [#20](https://github.com/skim0119/gym-softrobot/issues/20) in [skim0119/gym-softrobot](https://github.com/skim0119/gym-softrobot)
-3. ❗️ Opened issue [#125](https://github.com/utiasDSL/safe-control-gym/issues/125) in [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym)
-4. ❗️ Opened issue [#37](https://github.com/offworld-projects/offworld-gym/issues/37) in [offworld-projects/offworld-gym](https://github.com/offworld-projects/offworld-gym)
-5. ❗️ Opened issue [#73](https://github.com/jr-robotics/robo-gym/issues/73) in [jr-robotics/robo-gym](https://github.com/jr-robotics/robo-gym)
-6. ❗️ Opened issue [#8](https://github.com/dimikout3/MarsExplorer/issues/8) in [dimikout3/MarsExplorer](https://github.com/dimikout3/MarsExplorer)
-7. ❗️ Opened issue [#139](https://github.com/utiasDSL/gym-pybullet-drones/issues/139) in [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones)
-8. ❗️ Opened issue [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
-9. ❗️ Opened issue [#5884](https://github.com/Unity-Technologies/ml-agents/issues/5884) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-10. ❗️ Opened issue [#19](https://github.com/hardmaru/slimevolleygym/issues/19) in [hardmaru/slimevolleygym](https://github.com/hardmaru/slimevolleygym)
+1. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
+2. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+3. ❗️ Opened issue [#9](https://github.com/rajcscw/nlp-gym/issues/9) in [rajcscw/nlp-gym](https://github.com/rajcscw/nlp-gym)
+4. ❗️ Opened issue [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
+5. ❗️ Opened issue [#67](https://github.com/mpSchrader/gym-sokoban/issues/67) in [mpSchrader/gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
+6. ❗️ Opened issue [#8](https://github.com/elbecerrasoto/gym-cellular-automata/issues/8) in [elbecerrasoto/gym-cellular-automata](https://github.com/elbecerrasoto/gym-cellular-automata)
+7. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
+8. ❗️ Opened issue [#789](https://github.com/facebookresearch/CompilerGym/issues/789) in [facebookresearch/CompilerGym](https://github.com/facebookresearch/CompilerGym)
+9. ❗️ Opened issue [#12](https://github.com/axelbr/racecar_gym/issues/12) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+10. ❗️ Opened issue [#21](https://github.com/learn-to-race/l2r/issues/21) in [learn-to-race/l2r](https://github.com/learn-to-race/l2r)
 <!--END_SECTION:activity-->
 
 
