@@ -20,15 +20,15 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-2. ❗️ Opened issue [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-3. ❗️ Opened issue [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-4. 🗣 Commented on [#877](https://github.com/Farama-Foundation/PettingZoo/issues/877) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#895](https://github.com/Farama-Foundation/PettingZoo/issues/895) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+3. ❗️ Opened issue [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+4. ❗️ Opened issue [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+5. 🗣 Commented on [#877](https://github.com/Farama-Foundation/PettingZoo/issues/877) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 6. 🗣 Commented on [#895](https://github.com/Farama-Foundation/PettingZoo/issues/895) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#5878](https://github.com/Unity-Technologies/ml-agents/issues/5878) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-8. 🗣 Commented on [#899](https://github.com/Farama-Foundation/PettingZoo/issues/899) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 💪 Opened PR [#903](https://github.com/Farama-Foundation/PettingZoo/pull/903) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#863](https://github.com/Farama-Foundation/PettingZoo/issues/863) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#895](https://github.com/Farama-Foundation/PettingZoo/issues/895) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#5878](https://github.com/Unity-Technologies/ml-agents/issues/5878) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+9. 🗣 Commented on [#899](https://github.com/Farama-Foundation/PettingZoo/issues/899) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#903](https://github.com/Farama-Foundation/PettingZoo/pull/903) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
