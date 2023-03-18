@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
-2. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
-3. ❗️ Opened issue [#138](https://github.com/upb-lea/openmodelica-microgrid-gym/issues/138) in [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
-4. ❗️ Opened issue [#39](https://github.com/AminHP/gym-mtsim/issues/39) in [AminHP/gym-mtsim](https://github.com/AminHP/gym-mtsim)
-5. ❗️ Opened issue [#85](https://github.com/AminHP/gym-anytrading/issues/85) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
-6. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
-7. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-8. ❗️ Opened issue [#9](https://github.com/rajcscw/nlp-gym/issues/9) in [rajcscw/nlp-gym](https://github.com/rajcscw/nlp-gym)
-9. ❗️ Opened issue [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
-10. ❗️ Opened issue [#67](https://github.com/mpSchrader/gym-sokoban/issues/67) in [mpSchrader/gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
+1. ❗️ Opened issue [#58](https://github.com/qgallouedec/panda-gym/issues/58) in [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
+2. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
+3. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
+4. ❗️ Opened issue [#138](https://github.com/upb-lea/openmodelica-microgrid-gym/issues/138) in [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
+5. ❗️ Opened issue [#39](https://github.com/AminHP/gym-mtsim/issues/39) in [AminHP/gym-mtsim](https://github.com/AminHP/gym-mtsim)
+6. ❗️ Opened issue [#85](https://github.com/AminHP/gym-anytrading/issues/85) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+7. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
+8. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+9. ❗️ Opened issue [#9](https://github.com/rajcscw/nlp-gym/issues/9) in [rajcscw/nlp-gym](https://github.com/rajcscw/nlp-gym)
+10. ❗️ Opened issue [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
 <!--END_SECTION:activity-->
 
 
