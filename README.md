@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#395](https://github.com/Farama-Foundation/Gymnasium/pull/395) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-2. ❗️ Opened issue [#58](https://github.com/qgallouedec/panda-gym/issues/58) in [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
-3. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
-4. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
-5. ❗️ Opened issue [#138](https://github.com/upb-lea/openmodelica-microgrid-gym/issues/138) in [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
-6. ❗️ Opened issue [#39](https://github.com/AminHP/gym-mtsim/issues/39) in [AminHP/gym-mtsim](https://github.com/AminHP/gym-mtsim)
-7. ❗️ Opened issue [#85](https://github.com/AminHP/gym-anytrading/issues/85) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
-8. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
-9. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-10. ❗️ Opened issue [#9](https://github.com/rajcscw/nlp-gym/issues/9) in [rajcscw/nlp-gym](https://github.com/rajcscw/nlp-gym)
+1. 💪 Opened PR [#905](https://github.com/Farama-Foundation/PettingZoo/pull/905) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 💪 Opened PR [#395](https://github.com/Farama-Foundation/Gymnasium/pull/395) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+3. ❗️ Opened issue [#58](https://github.com/qgallouedec/panda-gym/issues/58) in [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
+4. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
+5. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
+6. ❗️ Opened issue [#138](https://github.com/upb-lea/openmodelica-microgrid-gym/issues/138) in [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
+7. ❗️ Opened issue [#39](https://github.com/AminHP/gym-mtsim/issues/39) in [AminHP/gym-mtsim](https://github.com/AminHP/gym-mtsim)
+8. ❗️ Opened issue [#85](https://github.com/AminHP/gym-anytrading/issues/85) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+9. ❗️ Opened issue [#1](https://github.com/omron-sinicx/ShinRL/issues/1) in [omron-sinicx/ShinRL](https://github.com/omron-sinicx/ShinRL)
+10. ❗️ Opened issue [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
 <!--END_SECTION:activity-->
 
 
