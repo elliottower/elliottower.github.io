@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/trackmania-rl/tmrl/issues/40) in [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl)
-2. 🗣 Commented on [#906](https://github.com/Farama-Foundation/PettingZoo/issues/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 💪 Opened PR [#906](https://github.com/Farama-Foundation/PettingZoo/pull/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#905](https://github.com/Farama-Foundation/PettingZoo/pull/905) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 💪 Opened PR [#395](https://github.com/Farama-Foundation/Gymnasium/pull/395) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-7. ❗️ Opened issue [#58](https://github.com/qgallouedec/panda-gym/issues/58) in [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
-8. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
-9. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
-10. ❗️ Opened issue [#138](https://github.com/upb-lea/openmodelica-microgrid-gym/issues/138) in [upb-lea/openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym)
+1. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+2. 🗣 Commented on [#40](https://github.com/trackmania-rl/tmrl/issues/40) in [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl)
+3. 🗣 Commented on [#906](https://github.com/Farama-Foundation/PettingZoo/issues/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#906](https://github.com/Farama-Foundation/PettingZoo/pull/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#905](https://github.com/Farama-Foundation/PettingZoo/pull/905) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 💪 Opened PR [#395](https://github.com/Farama-Foundation/Gymnasium/pull/395) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+8. ❗️ Opened issue [#58](https://github.com/qgallouedec/panda-gym/issues/58) in [qgallouedec/panda-gym](https://github.com/qgallouedec/panda-gym)
+9. ❗️ Opened issue [#110](https://github.com/wil3/gymfc/issues/110) in [wil3/gymfc](https://github.com/wil3/gymfc)
+10. ❗️ Opened issue [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
 <!--END_SECTION:activity-->
 
 
