@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#906](https://github.com/Farama-Foundation/PettingZoo/issues/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#907](https://github.com/Farama-Foundation/PettingZoo/pull/907) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. ❗️ Opened issue [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-4. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
-5. 🗣 Commented on [#40](https://github.com/trackmania-rl/tmrl/issues/40) in [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl)
-6. 🗣 Commented on [#906](https://github.com/Farama-Foundation/PettingZoo/issues/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#906](https://github.com/Farama-Foundation/PettingZoo/pull/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 💪 Opened PR [#905](https://github.com/Farama-Foundation/PettingZoo/pull/905) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 💪 Opened PR [#395](https://github.com/Farama-Foundation/Gymnasium/pull/395) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+1. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+2. 🗣 Commented on [#906](https://github.com/Farama-Foundation/PettingZoo/issues/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 💪 Opened PR [#907](https://github.com/Farama-Foundation/PettingZoo/pull/907) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. ❗️ Opened issue [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+5. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+6. 🗣 Commented on [#40](https://github.com/trackmania-rl/tmrl/issues/40) in [trackmania-rl/tmrl](https://github.com/trackmania-rl/tmrl)
+7. 🗣 Commented on [#906](https://github.com/Farama-Foundation/PettingZoo/issues/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 💪 Opened PR [#906](https://github.com/Farama-Foundation/PettingZoo/pull/906) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#905](https://github.com/Farama-Foundation/PettingZoo/pull/905) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
