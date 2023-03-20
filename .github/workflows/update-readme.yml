@@ -18,10 +18,14 @@ jobs:
         with:
           MAX_LINES: 10
           
-      - uses: GuillaumeFalourd/copy-push-files@v1
+      
+      - uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_files: README.md
-          email: ${{ github.actor }}[bot]@users.noreply.github.com
-          name: ${{ github.actor }}
-          remote_repository: https://github.com/elliottower/elliottower
-          access_token: ${{ secrets.ACCESS_TOKEN }}
+          source_file: 'README.md'
+          destination_repo: 'elliottower/elliottower'
+          destination_folder: 'test-dir'
+          user_email: 'elliot@elliottower.com'
+          user_name: 'elliottower'
+          commit_message: 'Update README.md'
