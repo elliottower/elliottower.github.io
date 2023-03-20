@@ -21,5 +21,7 @@ jobs:
       - uses: GuillaumeFalourd/copy-push-files@v1
         with:
           source_files: README.md
+          email: ${{ github.actor }}[bot]@users.noreply.github.com
+          name: ${{ github.actor }}
           remote_repository: https://github.com/elliottower/elliottower
           access_token: ${{ secrets.ACCESS_TOKEN }}
