@@ -25,7 +25,6 @@ jobs:
         with:
           source_file: 'README.md'
           destination_repo: 'elliottower/elliottower'
-          destination_folder: 'test-dir'
           user_email: 'elliot@elliottower.com'
           user_name: 'elliottower'
           commit_message: 'Update README.md'
