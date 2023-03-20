@@ -17,3 +17,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
+          
+      - uses: GuillaumeFalourd/copy-push-files@v1
+        with:
+          source_files: README.md
+          remote_repository: https://github.com/elliottower/elliottower
+          access_token: ${{ secrets.ACCESS_TOKEN }}
