@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
-2. 🗣 Commented on [#28](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs/issues/28) in [NVIDIA-Omniverse/OmniIsaacGymEnvs](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
-3. 🗣 Commented on [#125](https://github.com/utiasDSL/safe-control-gym/issues/125) in [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym)
-4. 🗣 Commented on [#139](https://github.com/utiasDSL/gym-pybullet-drones/issues/139) in [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones)
-5. 🗣 Commented on [#33481](https://github.com/ray-project/ray/issues/33481) in [ray-project/ray](https://github.com/ray-project/ray)
-6. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-7. 💪 Opened PR [#33481](https://github.com/ray-project/ray/pull/33481) in [ray-project/ray](https://github.com/ray-project/ray)
-8. ❌ Closed PR [#32492](https://github.com/ray-project/ray/pull/32492) in [ray-project/ray](https://github.com/ray-project/ray)
-9. 💪 Opened PR [#33470](https://github.com/ray-project/ray/pull/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-10. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+1. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+2. 🗣 Commented on [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
+3. 🗣 Commented on [#12](https://github.com/axelbr/racecar_gym/issues/12) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+4. 🗣 Commented on [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
+5. 🗣 Commented on [#28](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs/issues/28) in [NVIDIA-Omniverse/OmniIsaacGymEnvs](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
+6. 🗣 Commented on [#125](https://github.com/utiasDSL/safe-control-gym/issues/125) in [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym)
+7. 🗣 Commented on [#139](https://github.com/utiasDSL/gym-pybullet-drones/issues/139) in [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones)
+8. 🗣 Commented on [#33481](https://github.com/ray-project/ray/issues/33481) in [ray-project/ray](https://github.com/ray-project/ray)
+9. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+10. 💪 Opened PR [#33481](https://github.com/ray-project/ray/pull/33481) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
