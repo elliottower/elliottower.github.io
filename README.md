@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-2. 💪 Opened PR [#913](https://github.com/Farama-Foundation/PettingZoo/pull/913) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. ❗️ Closed issue [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#911](https://github.com/Farama-Foundation/PettingZoo/issues/911) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. ❗️ Opened issue [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. ❗️ Opened issue [#911](https://github.com/Farama-Foundation/PettingZoo/issues/911) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-9. 🗣 Commented on [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
-10. 🗣 Commented on [#12](https://github.com/axelbr/racecar_gym/issues/12) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+1. 🗣 Commented on [#39](https://github.com/Farama-Foundation/Shimmy/issues/39) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+3. 💪 Opened PR [#913](https://github.com/Farama-Foundation/PettingZoo/pull/913) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. ❗️ Closed issue [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#911](https://github.com/Farama-Foundation/PettingZoo/issues/911) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. ❗️ Opened issue [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. ❗️ Opened issue [#911](https://github.com/Farama-Foundation/PettingZoo/issues/911) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+10. 🗣 Commented on [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
 <!--END_SECTION:activity-->
 
 
