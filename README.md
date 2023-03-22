@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-2. 🗣 Commented on [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
-3. 🗣 Commented on [#12](https://github.com/axelbr/racecar_gym/issues/12) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-4. 🗣 Commented on [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
-5. 🗣 Commented on [#28](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs/issues/28) in [NVIDIA-Omniverse/OmniIsaacGymEnvs](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
-6. 🗣 Commented on [#125](https://github.com/utiasDSL/safe-control-gym/issues/125) in [utiasDSL/safe-control-gym](https://github.com/utiasDSL/safe-control-gym)
-7. 🗣 Commented on [#139](https://github.com/utiasDSL/gym-pybullet-drones/issues/139) in [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones)
-8. 🗣 Commented on [#33481](https://github.com/ray-project/ray/issues/33481) in [ray-project/ray](https://github.com/ray-project/ray)
-9. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-10. 💪 Opened PR [#33481](https://github.com/ray-project/ray/pull/33481) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 💪 Opened PR [#913](https://github.com/Farama-Foundation/PettingZoo/pull/913) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. ❗️ Closed issue [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#911](https://github.com/Farama-Foundation/PettingZoo/issues/911) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. ❗️ Opened issue [#912](https://github.com/Farama-Foundation/PettingZoo/issues/912) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. ❗️ Opened issue [#911](https://github.com/Farama-Foundation/PettingZoo/issues/911) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+8. 🗣 Commented on [#598](https://github.com/duburcqa/jiminy/issues/598) in [duburcqa/jiminy](https://github.com/duburcqa/jiminy)
+9. 🗣 Commented on [#12](https://github.com/axelbr/racecar_gym/issues/12) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+10. 🗣 Commented on [#130](https://github.com/automl/DACBench/issues/130) in [automl/DACBench](https://github.com/automl/DACBench)
 <!--END_SECTION:activity-->
 
 
