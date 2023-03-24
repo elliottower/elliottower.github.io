@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-2. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-3. ❗️ Closed issue [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-4. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. ❗️ Opened issue [#5](https://github.com/deepmind/pushworld/issues/5) in [deepmind/pushworld](https://github.com/deepmind/pushworld)
-6. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-9. ❌ Closed PR [#117](https://github.com/deepmind/meltingpot/pull/117) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-10. 💪 Opened PR [#121](https://github.com/deepmind/meltingpot/pull/121) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+1. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+2. ❗️ Opened issue [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+3. 🎉 Merged PR [#914](https://github.com/Farama-Foundation/PettingZoo/pull/914) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+5. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+6. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+7. ❗️ Closed issue [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+8. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. ❗️ Opened issue [#5](https://github.com/deepmind/pushworld/issues/5) in [deepmind/pushworld](https://github.com/deepmind/pushworld)
+10. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
