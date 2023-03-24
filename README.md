@@ -20,15 +20,15 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-4. ❌ Closed PR [#117](https://github.com/deepmind/meltingpot/pull/117) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-5. 💪 Opened PR [#121](https://github.com/deepmind/meltingpot/pull/121) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-6. 🗣 Commented on [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-7. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-8. ❗️ Opened issue [#918](https://github.com/Farama-Foundation/PettingZoo/issues/918) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. ❗️ Opened issue [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-10. ❗️ Closed issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
+2. ❗️ Opened issue [#5](https://github.com/deepmind/pushworld/issues/5) in [deepmind/pushworld](https://github.com/deepmind/pushworld)
+3. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+6. ❌ Closed PR [#117](https://github.com/deepmind/meltingpot/pull/117) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+7. 💪 Opened PR [#121](https://github.com/deepmind/meltingpot/pull/121) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+8. 🗣 Commented on [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+9. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+10. ❗️ Opened issue [#918](https://github.com/Farama-Foundation/PettingZoo/issues/918) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
