@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-2. ❌ Closed PR [#117](https://github.com/deepmind/meltingpot/pull/117) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-3. 💪 Opened PR [#121](https://github.com/deepmind/meltingpot/pull/121) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-4. 🗣 Commented on [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-5. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-6. ❗️ Opened issue [#918](https://github.com/Farama-Foundation/PettingZoo/issues/918) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. ❗️ Opened issue [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-8. ❗️ Closed issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-9. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-10. 💪 Opened PR [#44](https://github.com/Farama-Foundation/Shimmy/pull/44) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+4. ❌ Closed PR [#117](https://github.com/deepmind/meltingpot/pull/117) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+5. 💪 Opened PR [#121](https://github.com/deepmind/meltingpot/pull/121) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+6. 🗣 Commented on [#120](https://github.com/deepmind/meltingpot/issues/120) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+7. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+8. ❗️ Opened issue [#918](https://github.com/Farama-Foundation/PettingZoo/issues/918) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. ❗️ Opened issue [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+10. ❗️ Closed issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
 <!--END_SECTION:activity-->
 
 
