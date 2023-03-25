@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/Farama-Foundation/Shimmy/pull/47) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. ❌ Closed PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 🗣 Commented on [#46](https://github.com/Farama-Foundation/Shimmy/issues/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. ❗️ Closed issue [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-5. 🗣 Commented on [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-6. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-7. 🗣 Commented on [#915](https://github.com/Farama-Foundation/PettingZoo/issues/915) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#917](https://github.com/Farama-Foundation/PettingZoo/issues/917) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
-10. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+1. 💪 Opened PR [#406](https://github.com/Farama-Foundation/Gymnasium/pull/406) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+2. 💪 Opened PR [#47](https://github.com/Farama-Foundation/Shimmy/pull/47) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. ❌ Closed PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🗣 Commented on [#46](https://github.com/Farama-Foundation/Shimmy/issues/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. ❗️ Closed issue [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+6. 🗣 Commented on [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+7. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+8. 🗣 Commented on [#915](https://github.com/Farama-Foundation/PettingZoo/issues/915) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#917](https://github.com/Farama-Foundation/PettingZoo/issues/917) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
 <!--END_SECTION:activity-->
 
 
