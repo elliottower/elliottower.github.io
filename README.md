@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#915](https://github.com/Farama-Foundation/PettingZoo/issues/915) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#917](https://github.com/Farama-Foundation/PettingZoo/issues/917) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
-4. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
-5. 💪 Opened PR [#404](https://github.com/Farama-Foundation/Gymnasium/pull/404) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-6. 💪 Opened PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-7. ❗️ Opened issue [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
-8. 🗣 Commented on [#44](https://github.com/Farama-Foundation/Shimmy/issues/44) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🗣 Commented on [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-10. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+1. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+2. 🗣 Commented on [#915](https://github.com/Farama-Foundation/PettingZoo/issues/915) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#917](https://github.com/Farama-Foundation/PettingZoo/issues/917) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+5. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+6. 💪 Opened PR [#404](https://github.com/Farama-Foundation/Gymnasium/pull/404) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+7. 💪 Opened PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. ❗️ Opened issue [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+9. 🗣 Commented on [#44](https://github.com/Farama-Foundation/Shimmy/issues/44) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🗣 Commented on [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
 <!--END_SECTION:activity-->
 
 
