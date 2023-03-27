@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. ❗️ Opened issue [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
-3. ❗️ Opened issue [#48](https://github.com/Farama-Foundation/Shimmy/issues/48) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#406](https://github.com/Farama-Foundation/Gymnasium/pull/406) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-5. 💪 Opened PR [#47](https://github.com/Farama-Foundation/Shimmy/pull/47) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. ❌ Closed PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-7. 🗣 Commented on [#46](https://github.com/Farama-Foundation/Shimmy/issues/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. ❗️ Closed issue [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-9. 🗣 Commented on [#22](https://github.com/deepmind/lab2d/issues/22) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-10. 🗣 Commented on [#98](https://github.com/inpefess/gym-saturation/issues/98) in [inpefess/gym-saturation](https://github.com/inpefess/gym-saturation)
+1. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#32850](https://github.com/ray-project/ray/issues/32850) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 💪 Opened PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. ❗️ Opened issue [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
+6. ❗️ Opened issue [#48](https://github.com/Farama-Foundation/Shimmy/issues/48) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 💪 Opened PR [#406](https://github.com/Farama-Foundation/Gymnasium/pull/406) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+8. 💪 Opened PR [#47](https://github.com/Farama-Foundation/Shimmy/pull/47) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. ❌ Closed PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🗣 Commented on [#46](https://github.com/Farama-Foundation/Shimmy/issues/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 
