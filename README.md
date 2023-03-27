@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-2. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#32850](https://github.com/ray-project/ray/issues/32850) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 💪 Opened PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. ❗️ Opened issue [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
-7. ❗️ Opened issue [#48](https://github.com/Farama-Foundation/Shimmy/issues/48) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 💪 Opened PR [#406](https://github.com/Farama-Foundation/Gymnasium/pull/406) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-9. 💪 Opened PR [#47](https://github.com/Farama-Foundation/Shimmy/pull/47) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. ❌ Closed PR [#46](https://github.com/Farama-Foundation/Shimmy/pull/46) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 🎉 Merged PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+3. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#32850](https://github.com/ray-project/ray/issues/32850) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 💪 Opened PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. ❗️ Opened issue [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
+8. ❗️ Opened issue [#48](https://github.com/Farama-Foundation/Shimmy/issues/48) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 💪 Opened PR [#406](https://github.com/Farama-Foundation/Gymnasium/pull/406) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+10. 💪 Opened PR [#47](https://github.com/Farama-Foundation/Shimmy/pull/47) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 
