@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#902](https://github.com/Farama-Foundation/PettingZoo/issues/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. ❌ Closed PR [#902](https://github.com/Farama-Foundation/PettingZoo/pull/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🎉 Merged PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-5. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-6. 🗣 Commented on [#32850](https://github.com/ray-project/ray/issues/32850) in [ray-project/ray](https://github.com/ray-project/ray)
-7. 💪 Opened PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 💪 Opened PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. ❗️ Opened issue [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
-10. ❗️ Opened issue [#48](https://github.com/Farama-Foundation/Shimmy/issues/48) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 💪 Opened PR [#49](https://github.com/Farama-Foundation/Shimmy/pull/49) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🗣 Commented on [#902](https://github.com/Farama-Foundation/PettingZoo/issues/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. ❌ Closed PR [#902](https://github.com/Farama-Foundation/PettingZoo/pull/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🎉 Merged PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#119](https://github.com/deepmind/meltingpot/issues/119) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+6. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+7. 🗣 Commented on [#32850](https://github.com/ray-project/ray/issues/32850) in [ray-project/ray](https://github.com/ray-project/ray)
+8. 💪 Opened PR [#921](https://github.com/Farama-Foundation/PettingZoo/pull/921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 💪 Opened PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. ❗️ Opened issue [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
 <!--END_SECTION:activity-->
 
 
