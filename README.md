@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#52](https://github.com/Farama-Foundation/Shimmy/issues/52) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#52](https://github.com/Farama-Foundation/Shimmy/pull/52) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 🗣 Commented on [#242](https://github.com/deepmind/lab/issues/242) in [deepmind/lab](https://github.com/deepmind/lab)
-6. 🗣 Commented on [#904](https://github.com/Farama-Foundation/PettingZoo/issues/904) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🎉 Merged PR [#920](https://github.com/Farama-Foundation/PettingZoo/pull/920) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-9. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#50](https://github.com/Farama-Foundation/Shimmy/issues/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. ❗️ Opened issue [#72](https://github.com/NeuralMMO/environment/issues/72) in [NeuralMMO/environment](https://github.com/NeuralMMO/environment)
+2. ❗️ Opened issue [#209](https://github.com/eugenevinitsky/sequential_social_dilemma_games/issues/209) in [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
+3. ❗️ Opened issue [#235](https://github.com/Kaggle/kaggle-environments/issues/235) in [Kaggle/kaggle-environments](https://github.com/Kaggle/kaggle-environments)
+4. ❗️ Opened issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+5. ❗️ Opened issue [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+6. ❗️ Opened issue [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+7. ❗️ Opened issue [#93](https://github.com/JDBumgardner/stone_ground_hearth_battles/issues/93) in [JDBumgardner/stone_ground_hearth_battles](https://github.com/JDBumgardner/stone_ground_hearth_battles)
+8. ❗️ Opened issue [#31](https://github.com/cage-challenge/CybORG/issues/31) in [cage-challenge/CybORG](https://github.com/cage-challenge/CybORG)
+9. ❗️ Opened issue [#23](https://github.com/DavidRother/gym-cooking/issues/23) in [DavidRother/gym-cooking](https://github.com/DavidRother/gym-cooking)
+10. ❗️ Opened issue [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
 <!--END_SECTION:activity-->
 
 
