@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#50](https://github.com/Farama-Foundation/Shimmy/issues/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 💪 Opened PR [#51](https://github.com/Farama-Foundation/Shimmy/pull/51) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#50](https://github.com/Farama-Foundation/Shimmy/pull/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 💪 Opened PR [#924](https://github.com/Farama-Foundation/PettingZoo/pull/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#50](https://github.com/Farama-Foundation/Shimmy/issues/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 💪 Opened PR [#51](https://github.com/Farama-Foundation/Shimmy/pull/51) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 💪 Opened PR [#50](https://github.com/Farama-Foundation/Shimmy/pull/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#924](https://github.com/Farama-Foundation/PettingZoo/pull/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 7. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-8. 💪 Opened PR [#49](https://github.com/Farama-Foundation/Shimmy/pull/49) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🗣 Commented on [#902](https://github.com/Farama-Foundation/PettingZoo/issues/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. ❌ Closed PR [#902](https://github.com/Farama-Foundation/PettingZoo/pull/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+9. 💪 Opened PR [#49](https://github.com/Farama-Foundation/Shimmy/pull/49) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🗣 Commented on [#902](https://github.com/Farama-Foundation/PettingZoo/issues/902) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
