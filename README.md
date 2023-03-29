@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. ❗️ Opened issue [#5](https://github.com/SonicKurt/Galaga-AI/issues/5) in [SonicKurt/Galaga-AI](https://github.com/SonicKurt/Galaga-AI)
-3. ❗️ Opened issue [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-4. 🎉 Merged PR [#925](https://github.com/Farama-Foundation/PettingZoo/pull/925) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
-6. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
-7. 🎉 Merged PR [#52](https://github.com/Farama-Foundation/Shimmy/pull/52) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-9. ❗️ Opened issue [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
-10. 💪 Opened PR [#412](https://github.com/Farama-Foundation/Gymnasium/pull/412) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+1. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
+2. 💪 Opened PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. ❗️ Opened issue [#5](https://github.com/SonicKurt/Galaga-AI/issues/5) in [SonicKurt/Galaga-AI](https://github.com/SonicKurt/Galaga-AI)
+4. ❗️ Opened issue [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+5. 🎉 Merged PR [#925](https://github.com/Farama-Foundation/PettingZoo/pull/925) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
+7. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
+8. 🎉 Merged PR [#52](https://github.com/Farama-Foundation/Shimmy/pull/52) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+10. ❗️ Opened issue [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
 <!--END_SECTION:activity-->
 
 
