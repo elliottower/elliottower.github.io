@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
-2. 💪 Opened PR [#412](https://github.com/Farama-Foundation/Gymnasium/pull/412) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-3. 💪 Opened PR [#53](https://github.com/Farama-Foundation/Shimmy/pull/53) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-5. ❗️ Opened issue [#72](https://github.com/NeuralMMO/environment/issues/72) in [NeuralMMO/environment](https://github.com/NeuralMMO/environment)
-6. ❗️ Opened issue [#209](https://github.com/eugenevinitsky/sequential_social_dilemma_games/issues/209) in [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
-7. ❗️ Opened issue [#235](https://github.com/Kaggle/kaggle-environments/issues/235) in [Kaggle/kaggle-environments](https://github.com/Kaggle/kaggle-environments)
-8. ❗️ Opened issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
-9. ❗️ Opened issue [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-10. ❗️ Opened issue [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+1. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
+2. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
+3. 🎉 Merged PR [#52](https://github.com/Farama-Foundation/Shimmy/pull/52) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+5. ❗️ Opened issue [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+6. 💪 Opened PR [#412](https://github.com/Farama-Foundation/Gymnasium/pull/412) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+7. 💪 Opened PR [#53](https://github.com/Farama-Foundation/Shimmy/pull/53) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+9. ❗️ Opened issue [#72](https://github.com/NeuralMMO/environment/issues/72) in [NeuralMMO/environment](https://github.com/NeuralMMO/environment)
+10. ❗️ Opened issue [#209](https://github.com/eugenevinitsky/sequential_social_dilemma_games/issues/209) in [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
 <!--END_SECTION:activity-->
 
 
