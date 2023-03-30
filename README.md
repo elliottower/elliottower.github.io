@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#928](https://github.com/Farama-Foundation/PettingZoo/issues/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#927](https://github.com/Farama-Foundation/PettingZoo/issues/927) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-4. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
-5. 💪 Opened PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. ❗️ Opened issue [#5](https://github.com/SonicKurt/Galaga-AI/issues/5) in [SonicKurt/Galaga-AI](https://github.com/SonicKurt/Galaga-AI)
-7. ❗️ Opened issue [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-8. 🎉 Merged PR [#925](https://github.com/Farama-Foundation/PettingZoo/pull/925) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
-10. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
+1. ❌ Closed PR [#924](https://github.com/Farama-Foundation/PettingZoo/pull/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#50](https://github.com/Farama-Foundation/Shimmy/issues/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. ❌ Closed PR [#50](https://github.com/Farama-Foundation/Shimmy/pull/50) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#928](https://github.com/Farama-Foundation/PettingZoo/issues/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#927](https://github.com/Farama-Foundation/PettingZoo/issues/927) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+8. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
+9. 💪 Opened PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. ❗️ Opened issue [#5](https://github.com/SonicKurt/Galaga-AI/issues/5) in [SonicKurt/Galaga-AI](https://github.com/SonicKurt/Galaga-AI)
 <!--END_SECTION:activity-->
 
 
