@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#928](https://github.com/Farama-Foundation/PettingZoo/issues/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#927](https://github.com/Farama-Foundation/PettingZoo/issues/927) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-4. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
-5. 💪 Opened PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. ❗️ Opened issue [#5](https://github.com/SonicKurt/Galaga-AI/issues/5) in [SonicKurt/Galaga-AI](https://github.com/SonicKurt/Galaga-AI)
-7. ❗️ Opened issue [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-8. 🎉 Merged PR [#925](https://github.com/Farama-Foundation/PettingZoo/pull/925) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#5](https://github.com/XuShenLZ/conflict_rez/issues/5) in [XuShenLZ/conflict_rez](https://github.com/XuShenLZ/conflict_rez)
-10. 🗣 Commented on [#74](https://github.com/automl/CARL/issues/74) in [automl/CARL](https://github.com/automl/CARL)
+1. 🗣 Commented on [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
+2. 🗣 Commented on [#54](https://github.com/Farama-Foundation/Shimmy/issues/54) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 💪 Opened PR [#929](https://github.com/Farama-Foundation/PettingZoo/pull/929) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#54](https://github.com/Farama-Foundation/Shimmy/pull/54) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#53](https://github.com/Farama-Foundation/Shimmy/issues/53) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🗣 Commented on [#53](https://github.com/Farama-Foundation/Shimmy/issues/53) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 🗣 Commented on [#53](https://github.com/Farama-Foundation/Shimmy/issues/53) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. 🗣 Commented on [#915](https://github.com/Farama-Foundation/PettingZoo/issues/915) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. ❌ Closed PR [#924](https://github.com/Farama-Foundation/PettingZoo/pull/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
@@ -36,13 +36,11 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 17 mins
+Total Time: 26 hrs 25 mins
 
-Python           8 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   36.28 %
-Markdown         7 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.54 %
-Terminal         3 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Docker           2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Other            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Markdown         8 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.40 %
+Python           8 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.45 %
+Other            3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
 ```
 
 <!--END_SECTION:waka-->
