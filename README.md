@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#933](https://github.com/Farama-Foundation/PettingZoo/issues/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#933](https://github.com/Farama-Foundation/PettingZoo/pull/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#931](https://github.com/Farama-Foundation/PettingZoo/issues/931) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 💪 Opened PR [#932](https://github.com/Farama-Foundation/PettingZoo/pull/932) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-6. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#212](https://github.com/Farama-Foundation/SuperSuit/issues/212) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-8. 🗣 Commented on [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
-9. 🗣 Commented on [#54](https://github.com/Farama-Foundation/Shimmy/issues/54) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. 💪 Opened PR [#929](https://github.com/Farama-Foundation/PettingZoo/pull/929) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#935](https://github.com/Farama-Foundation/PettingZoo/pull/935) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 💪 Opened PR [#934](https://github.com/Farama-Foundation/PettingZoo/pull/934) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#933](https://github.com/Farama-Foundation/PettingZoo/issues/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#933](https://github.com/Farama-Foundation/PettingZoo/pull/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#931](https://github.com/Farama-Foundation/PettingZoo/issues/931) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#932](https://github.com/Farama-Foundation/PettingZoo/pull/932) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+8. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#212](https://github.com/Farama-Foundation/SuperSuit/issues/212) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+10. 🗣 Commented on [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
 <!--END_SECTION:activity-->
 
 
