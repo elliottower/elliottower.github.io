@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#935](https://github.com/Farama-Foundation/PettingZoo/pull/935) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#934](https://github.com/Farama-Foundation/PettingZoo/pull/934) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#933](https://github.com/Farama-Foundation/PettingZoo/issues/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 💪 Opened PR [#933](https://github.com/Farama-Foundation/PettingZoo/pull/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#931](https://github.com/Farama-Foundation/PettingZoo/issues/931) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 💪 Opened PR [#932](https://github.com/Farama-Foundation/PettingZoo/pull/932) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
-8. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#212](https://github.com/Farama-Foundation/SuperSuit/issues/212) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-10. 🗣 Commented on [#17](https://github.com/oxwhirl/smacv2/issues/17) in [oxwhirl/smacv2](https://github.com/oxwhirl/smacv2)
+1. 🗣 Commented on [#537](https://github.com/Farama-Foundation/ViZDoom/issues/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
+2. 💪 Opened PR [#537](https://github.com/Farama-Foundation/ViZDoom/pull/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
+3. 💪 Opened PR [#935](https://github.com/Farama-Foundation/PettingZoo/pull/935) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#934](https://github.com/Farama-Foundation/PettingZoo/pull/934) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#933](https://github.com/Farama-Foundation/PettingZoo/issues/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#933](https://github.com/Farama-Foundation/PettingZoo/pull/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#931](https://github.com/Farama-Foundation/PettingZoo/issues/931) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 💪 Opened PR [#932](https://github.com/Farama-Foundation/PettingZoo/pull/932) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#13](https://github.com/axelbr/racecar_gym/issues/13) in [axelbr/racecar_gym](https://github.com/axelbr/racecar_gym)
+10. 🗣 Commented on [#924](https://github.com/Farama-Foundation/PettingZoo/issues/924) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
