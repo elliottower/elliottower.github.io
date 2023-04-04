@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-2. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
-3. 🗣 Commented on [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
-4. 🗣 Commented on [#537](https://github.com/Farama-Foundation/ViZDoom/issues/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
-5. 💪 Opened PR [#537](https://github.com/Farama-Foundation/ViZDoom/pull/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
-6. 💪 Opened PR [#935](https://github.com/Farama-Foundation/PettingZoo/pull/935) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#934](https://github.com/Farama-Foundation/PettingZoo/pull/934) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#933](https://github.com/Farama-Foundation/PettingZoo/issues/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 💪 Opened PR [#933](https://github.com/Farama-Foundation/PettingZoo/pull/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#931](https://github.com/Farama-Foundation/PettingZoo/issues/931) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. ❗️ Opened issue [#699](https://github.com/minerllabs/minerl/issues/699) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
+2. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+3. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+4. 🗣 Commented on [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+5. 🗣 Commented on [#537](https://github.com/Farama-Foundation/ViZDoom/issues/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
+6. 💪 Opened PR [#537](https://github.com/Farama-Foundation/ViZDoom/pull/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
+7. 💪 Opened PR [#935](https://github.com/Farama-Foundation/PettingZoo/pull/935) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 💪 Opened PR [#934](https://github.com/Farama-Foundation/PettingZoo/pull/934) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#933](https://github.com/Farama-Foundation/PettingZoo/issues/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#933](https://github.com/Farama-Foundation/PettingZoo/pull/933) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
