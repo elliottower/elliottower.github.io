@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/Farama-Foundation/farama.org/pull/74) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-2. ❗️ Closed issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-3. 🗣 Commented on [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-4. 🗣 Commented on [#55](https://github.com/Farama-Foundation/Shimmy/issues/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 💪 Opened PR [#55](https://github.com/Farama-Foundation/Shimmy/pull/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. 💪 Opened PR [#430](https://github.com/Farama-Foundation/Gymnasium/pull/430) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-7. ❗️ Opened issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-8. ❗️ Opened issue [#699](https://github.com/minerllabs/minerl/issues/699) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
-9. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-10. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+1. 💪 Opened PR [#433](https://github.com/Farama-Foundation/Gymnasium/pull/433) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+2. ❌ Closed PR [#432](https://github.com/Farama-Foundation/Gymnasium/pull/432) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+3. 💪 Opened PR [#432](https://github.com/Farama-Foundation/Gymnasium/pull/432) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+4. 💪 Opened PR [#74](https://github.com/Farama-Foundation/farama.org/pull/74) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+5. ❗️ Closed issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
+6. 🗣 Commented on [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
+7. 🗣 Commented on [#55](https://github.com/Farama-Foundation/Shimmy/issues/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. 💪 Opened PR [#55](https://github.com/Farama-Foundation/Shimmy/pull/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 💪 Opened PR [#430](https://github.com/Farama-Foundation/Gymnasium/pull/430) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+10. ❗️ Opened issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
 <!--END_SECTION:activity-->
 
 
