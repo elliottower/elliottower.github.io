@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#430](https://github.com/Farama-Foundation/Gymnasium/pull/430) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-2. ❗️ Opened issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-3. ❗️ Opened issue [#699](https://github.com/minerllabs/minerl/issues/699) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
-4. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-5. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
-6. 🗣 Commented on [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
-7. 🗣 Commented on [#537](https://github.com/Farama-Foundation/ViZDoom/issues/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
-8. 💪 Opened PR [#537](https://github.com/Farama-Foundation/ViZDoom/pull/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
-9. 💪 Opened PR [#935](https://github.com/Farama-Foundation/PettingZoo/pull/935) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 💪 Opened PR [#934](https://github.com/Farama-Foundation/PettingZoo/pull/934) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#55](https://github.com/Farama-Foundation/Shimmy/issues/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 💪 Opened PR [#55](https://github.com/Farama-Foundation/Shimmy/pull/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 💪 Opened PR [#430](https://github.com/Farama-Foundation/Gymnasium/pull/430) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+4. ❗️ Opened issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
+5. ❗️ Opened issue [#699](https://github.com/minerllabs/minerl/issues/699) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
+6. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+7. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+8. 🗣 Commented on [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+9. 🗣 Commented on [#537](https://github.com/Farama-Foundation/ViZDoom/issues/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
+10. 💪 Opened PR [#537](https://github.com/Farama-Foundation/ViZDoom/pull/537) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
 <!--END_SECTION:activity-->
 
 
