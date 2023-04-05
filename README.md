@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-2. 🗣 Commented on [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-3. 🗣 Commented on [#55](https://github.com/Farama-Foundation/Shimmy/issues/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#55](https://github.com/Farama-Foundation/Shimmy/pull/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 💪 Opened PR [#430](https://github.com/Farama-Foundation/Gymnasium/pull/430) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-6. ❗️ Opened issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
-7. ❗️ Opened issue [#699](https://github.com/minerllabs/minerl/issues/699) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
-8. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-9. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
-10. 🗣 Commented on [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
+1. 💪 Opened PR [#74](https://github.com/Farama-Foundation/farama.org/pull/74) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+2. ❗️ Closed issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
+3. 🗣 Commented on [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
+4. 🗣 Commented on [#55](https://github.com/Farama-Foundation/Shimmy/issues/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 💪 Opened PR [#55](https://github.com/Farama-Foundation/Shimmy/pull/55) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#430](https://github.com/Farama-Foundation/Gymnasium/pull/430) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+7. ❗️ Opened issue [#246](https://github.com/deepmind/lab/issues/246) in [deepmind/lab](https://github.com/deepmind/lab)
+8. ❗️ Opened issue [#699](https://github.com/minerllabs/minerl/issues/699) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
+9. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+10. ❗️ Closed issue [#19](https://github.com/AIRI-Institute/pogema/issues/19) in [AIRI-Institute/pogema](https://github.com/AIRI-Institute/pogema)
 <!--END_SECTION:activity-->
 
 
