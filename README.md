@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/deepmind/lab2d/issues/23) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-2. 🗣 Commented on [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-3. 💪 Opened PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 💪 Opened PR [#57](https://github.com/Farama-Foundation/Shimmy/pull/57) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. ❗️ Opened issue [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-7. 🗣 Commented on [#5897](https://github.com/Unity-Technologies/ml-agents/issues/5897) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-8. 🗣 Commented on [#5877](https://github.com/Unity-Technologies/ml-agents/issues/5877) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-9. 🗣 Commented on [#5899](https://github.com/Unity-Technologies/ml-agents/issues/5899) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-10. ❗️ Closed issue [#5884](https://github.com/Unity-Technologies/ml-agents/issues/5884) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+1. 🎉 Merged PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🎉 Merged PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 🗣 Commented on [#23](https://github.com/deepmind/lab2d/issues/23) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+4. 🗣 Commented on [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+5. 💪 Opened PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 💪 Opened PR [#57](https://github.com/Farama-Foundation/Shimmy/pull/57) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. ❗️ Opened issue [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+9. 🗣 Commented on [#5897](https://github.com/Unity-Technologies/ml-agents/issues/5897) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+10. 🗣 Commented on [#5877](https://github.com/Unity-Technologies/ml-agents/issues/5877) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 <!--END_SECTION:activity-->
 
 
