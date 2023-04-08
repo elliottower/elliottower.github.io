@@ -19,16 +19,16 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#930](https://github.com/Farama-Foundation/PettingZoo/issues/930) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🎉 Merged PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 🎉 Merged PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🗣 Commented on [#23](https://github.com/deepmind/lab2d/issues/23) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-5. 🗣 Commented on [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-6. 💪 Opened PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-7. 💪 Opened PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 💪 Opened PR [#57](https://github.com/Farama-Foundation/Shimmy/pull/57) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. ❗️ Opened issue [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-10. 🗣 Commented on [#5897](https://github.com/Unity-Technologies/ml-agents/issues/5897) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+1. ❗️ Opened issue [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+2. 🗣 Commented on [#930](https://github.com/Farama-Foundation/PettingZoo/issues/930) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🎉 Merged PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🎉 Merged PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#23](https://github.com/deepmind/lab2d/issues/23) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+6. 🗣 Commented on [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+7. 💪 Opened PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. 💪 Opened PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 💪 Opened PR [#57](https://github.com/Farama-Foundation/Shimmy/pull/57) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. ❗️ Opened issue [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
 <!--END_SECTION:activity-->
 
 
