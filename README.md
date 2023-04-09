@@ -36,10 +36,11 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 hrs 56 mins
+Total Time: 13 hrs 45 mins
 
-Python             7 hrs 31 mins   █████████████████▒░░░░░░░   68.76 %
-Other              1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Python           7 hrs 7 mins    █████████████░░░░░░░░░░░░   51.83 %
+Markdown         3 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Other            2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
 ```
 
 <!--END_SECTION:waka-->
