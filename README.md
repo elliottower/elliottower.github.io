@@ -4,10 +4,17 @@
 
 I'm Elliot. I enjoy creating tools for machine learning research, particularly Reinforcement Learning. 
 
-🚀 I'm currently working on training RL agents for two of my favorite board games: [gobblet-rl](https://github.com/elliottower/gobblet-rl) and [cathedral-rl](https://github.com/elliottower/cathedral-rl). 
+🤖 I'm currently working on training RL agents for two of my favorite board games: [gobblet-rl](https://github.com/elliottower/gobblet-rl) and [cathedral-rl](https://github.com/elliottower/cathedral-rl). 
 
-💥 A live version of Gobblet running in the browser can be viewed [here](https://elliottower.github.io/gobblet-rl/) (uses WebAssembly to run Python code in a virtual machine, see [tutorial](https://github.com/elliottower/gobblet-rl/blob/main/tutorials/WebAssembly/web_assembly.md) for details)
+💥 A live version of Gobblet running in the browser can be viewed [here](https://elliottower.github.io/gobblet-rl/) (uses WebAssembly to run Python code in a virtual machine, see [tutorial](https://github.com/elliottower/gobblet-rl/blob/main/tutorials/WebAssembly/web_assembly.md) for details).
 
+----
+
+🎉 I am the project manager for [Farama Foundation](https://farama.org/)'s [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) library, the standard API for Multi-Agent Reinforcement Learning (MARL). 
+
+🚀 I am also a core contributor to [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion and compatibility tool for popular RL environments.
+
+To learn more, see the [Farama Team](https://farama.org/team) or [Announcing the Farama Foundation](https://farama.org/Announcing-The-Farama-Foundation).
 
 ## 📫 How to reach me:
 
