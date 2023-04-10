@@ -26,16 +26,16 @@ To learn more, see the [Farama Team](https://farama.org/team) or [Announcing the
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/OmniSafeAI/safety-gymnasium/issues/39) in [OmniSafeAI/safety-gymnasium](https://github.com/OmniSafeAI/safety-gymnasium)
-2. 💪 Opened PR [#64](https://github.com/Farama-Foundation/Shimmy/pull/64) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 💪 Opened PR [#63](https://github.com/Farama-Foundation/Shimmy/pull/63) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#942](https://github.com/Farama-Foundation/PettingZoo/pull/942) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. ❗️ Opened issue [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-6. 🗣 Commented on [#930](https://github.com/Farama-Foundation/PettingZoo/issues/930) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🎉 Merged PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 🎉 Merged PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🗣 Commented on [#23](https://github.com/deepmind/lab2d/issues/23) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-10. 🗣 Commented on [#24](https://github.com/deepmind/lab2d/issues/24) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+1. 🎉 Merged PR [#938](https://github.com/Farama-Foundation/PettingZoo/pull/938) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. ❗️ Closed issue [#937](https://github.com/Farama-Foundation/PettingZoo/issues/937) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. ❗️ Opened issue [#39](https://github.com/OmniSafeAI/safety-gymnasium/issues/39) in [OmniSafeAI/safety-gymnasium](https://github.com/OmniSafeAI/safety-gymnasium)
+4. 💪 Opened PR [#64](https://github.com/Farama-Foundation/Shimmy/pull/64) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 💪 Opened PR [#63](https://github.com/Farama-Foundation/Shimmy/pull/63) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#942](https://github.com/Farama-Foundation/PettingZoo/pull/942) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. ❗️ Opened issue [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. 🗣 Commented on [#930](https://github.com/Farama-Foundation/PettingZoo/issues/930) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🎉 Merged PR [#59](https://github.com/Farama-Foundation/Shimmy/pull/59) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🎉 Merged PR [#58](https://github.com/Farama-Foundation/Shimmy/pull/58) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 
