@@ -43,15 +43,12 @@ To learn more, see the [Farama Team](https://farama.org/team) or [Announcing the
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 26 hrs
+Total Time: 34 hrs 5 mins
 
-Python           14 hrs 40 mins  ██████████████░░░░░░░░░░░   56.46 %
-Markdown         7 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-Terminal         3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Docker           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-TOML             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python           14 hrs 18 mins  ██████████▒░░░░░░░░░░░░░░   41.95 %
+Markdown         8 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Terminal         4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Other            3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
 ```
 
 <!--END_SECTION:waka-->
