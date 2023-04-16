@@ -43,10 +43,9 @@ To learn more, see the [Farama Team](https://farama.org/team) or [Announcing the
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 43 hrs 30 mins
+Total Time: 39 hrs 43 mins
 
-Python           12 hrs 46 mins  ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-Other            12 hrs 31 mins  ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+Other            12 hrs 31 mins  ████████░░░░░░░░░░░░░░░░░   31.53 %
 ```
 
 <!--END_SECTION:waka-->
