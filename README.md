@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-I'm Elliot. I enjoy creating tools for machine learning research, particularly Reinforcement Learning (RL). 
+I'm Elliot. I enjoy creating tools for machine learning research, particularly Reinforcement Learning.
+
+My personal interests include photography (see my [portfolio site](https://www.elliottower.com/)), travel, skiing, and music ([last.fm](https://www.last.fm/user/ajsdlfkwer), [spotify](https://open.spotify.com/user/12132818380)). I previously competed professionally in eSports, and now volunteer as a photographer for in-person events (see my [blog](https://www.elliottower.com/stories/?category=events)).
 
 🤖 Recent project: implementing two of my favorite board games and training RL agents: [gobblet-rl](https://github.com/elliottower/gobblet-rl) and [cathedral-rl](https://github.com/elliottower/cathedral-rl). 
 
@@ -14,7 +16,7 @@ I'm Elliot. I enjoy creating tools for machine learning research, particularly R
 
 🚀 I am the Project manager for the [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) library, the standard API for Multi-Agent Reinforcement Learning (MARL). 
 
-🎉 We are excited to announce a Mature Release for [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo. 
+🎉 I am excited to soon announce a mature release of [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo. 
 
 To learn more, see [Announcing the Farama Foundation](https://farama.org/Announcing-The-Farama-Foundation) and the [Farama Team](https://farama.org/team).
 
