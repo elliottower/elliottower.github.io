@@ -1,6 +1,6 @@
 # [elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
 
-<img src="https://raw.githubusercontent.com/elliottower/elliottower.github.io/main/src/jpg/DSCF7539.jpg?raw=true" width=70% alt="A wild Elliot on Mt. Washington">
+[![A wild Elliot on Mt Washington](https://raw.githubusercontent.com/elliottower/elliottower.github.io/main/src/jpg/DSCF7539-600px.jpg?raw=true)](https://raw.githubusercontent.com/elliottower/elliottower.github.io/main/src/jpg/DSCF7539.jpg?raw=true)
 
 ### Hi there 👋
 
