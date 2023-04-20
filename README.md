@@ -1,6 +1,6 @@
 # [elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
 
-<img src="https://user-images.githubusercontent.com/32176771/233498326-ca3e97bf-66cd-4095-9df5-8c67431ba1a2.jpg" width=70% alt="A wild Elliot on Mt. Washington">
+<img src="src/jpg/DSCF7539.jpg" width=70% alt="A wild Elliot on Mt. Washington">
 
 ### Hi there 👋
 
