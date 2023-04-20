@@ -1,5 +1,7 @@
 # [elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
 
+<img src="https://user-images.githubusercontent.com/32176771/233498326-ca3e97bf-66cd-4095-9df5-8c67431ba1a2.jpg" width=70% alt="A wild Elliot on Mt. Washington">
+
 ### Hi there 👋
 
 I'm Elliot. I enjoy creating tools for machine learning research, particularly Reinforcement Learning.
@@ -61,3 +63,5 @@ Other            15 hrs 25 mins  ███████████████�
 ![Page 1](src/png/page1.png "Page 1")
 ---
 <!-- PDF-TO-MARKDOWN:END -->
+
+This website was created using GitHub Pages, with workflow actions to fetch WakaTime stats, recent activity, and render a preview image of my resume PDF. The source code can be found here: https://github.com/elliottower/elliottower.github.io
