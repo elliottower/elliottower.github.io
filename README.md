@@ -64,4 +64,4 @@ Other            15 hrs 25 mins  ███████████████�
 ---
 <!-- PDF-TO-MARKDOWN:END -->
 
-This website was created using GitHub Pages, with workflow actions to fetch WakaTime stats, recent activity, and render a preview image of my resume PDF. The source code can be found here: https://github.com/elliottower/elliottower.github.io
+This website was created using GitHub Pages, with workflow actions to fetch WakaTime stats, recent activity, and render a preview image of my resume PDF. The source code can be found here: [https://github.com/elliottower/elliottower.github.io](https://github.com/elliottower/elliottower.github.io)
