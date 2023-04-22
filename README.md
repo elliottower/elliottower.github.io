@@ -50,9 +50,9 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 20 hrs 18 mins
+Total Time: 20 hrs 2 mins
 
-Other            16 hrs 26 mins  ████████████████████▒░░░░   80.97 %
+Other            15 hrs 26 mins  ███████████████████▒░░░░░   77.03 %
 ```
 
 <!--END_SECTION:waka-->
