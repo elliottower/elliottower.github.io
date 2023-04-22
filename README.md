@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-2. 💪 Opened PR [#71](https://github.com/Farama-Foundation/Shimmy/pull/71) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 💪 Opened PR [#70](https://github.com/Farama-Foundation/Shimmy/pull/70) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🎉 Merged PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#69](https://github.com/Farama-Foundation/Shimmy/issues/69) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. 💪 Opened PR [#950](https://github.com/Farama-Foundation/PettingZoo/pull/950) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#59](https://github.com/Farama-Foundation/Minari/pull/59) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-8. 💪 Opened PR [#58](https://github.com/Farama-Foundation/Minari/pull/58) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-9. 🗣 Commented on [#69](https://github.com/Farama-Foundation/Shimmy/issues/69) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. 🎉 Merged PR [#946](https://github.com/Farama-Foundation/PettingZoo/pull/946) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#34696](https://github.com/ray-project/ray/pull/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+3. ❌ Closed PR [#33470](https://github.com/ray-project/ray/pull/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+5. 💪 Opened PR [#71](https://github.com/Farama-Foundation/Shimmy/pull/71) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#70](https://github.com/Farama-Foundation/Shimmy/pull/70) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 🎉 Merged PR [#928](https://github.com/Farama-Foundation/PettingZoo/pull/928) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#69](https://github.com/Farama-Foundation/Shimmy/issues/69) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 💪 Opened PR [#950](https://github.com/Farama-Foundation/PettingZoo/pull/950) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#59](https://github.com/Farama-Foundation/Minari/pull/59) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
 <!--END_SECTION:activity-->
 
 
