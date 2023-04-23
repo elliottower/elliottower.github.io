@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#953](https://github.com/Farama-Foundation/PettingZoo/pull/953) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 💪 Opened PR [#462](https://github.com/Farama-Foundation/Gymnasium/pull/462) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-4. 🗣 Commented on [#17](https://github.com/Farama-Foundation/Multi-Agent-ALE/issues/17) in [Farama-Foundation/Multi-Agent-ALE](https://github.com/Farama-Foundation/Multi-Agent-ALE)
-5. 💪 Opened PR [#72](https://github.com/Farama-Foundation/Shimmy/pull/72) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. 💪 Opened PR [#34696](https://github.com/ray-project/ray/pull/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-7. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-8. ❌ Closed PR [#33470](https://github.com/ray-project/ray/pull/33470) in [ray-project/ray](https://github.com/ray-project/ray)
-9. 🗣 Commented on [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-10. 💪 Opened PR [#71](https://github.com/Farama-Foundation/Shimmy/pull/71) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 💪 Opened PR [#954](https://github.com/Farama-Foundation/PettingZoo/pull/954) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 💪 Opened PR [#953](https://github.com/Farama-Foundation/PettingZoo/pull/953) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#462](https://github.com/Farama-Foundation/Gymnasium/pull/462) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+5. 🗣 Commented on [#17](https://github.com/Farama-Foundation/Multi-Agent-ALE/issues/17) in [Farama-Foundation/Multi-Agent-ALE](https://github.com/Farama-Foundation/Multi-Agent-ALE)
+6. 💪 Opened PR [#72](https://github.com/Farama-Foundation/Shimmy/pull/72) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 💪 Opened PR [#34696](https://github.com/ray-project/ray/pull/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+8. 🗣 Commented on [#33470](https://github.com/ray-project/ray/issues/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+9. ❌ Closed PR [#33470](https://github.com/ray-project/ray/pull/33470) in [ray-project/ray](https://github.com/ray-project/ray)
+10. 🗣 Commented on [#5890](https://github.com/Unity-Technologies/ml-agents/issues/5890) in [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 <!--END_SECTION:activity-->
 
 
