@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/Farama-Foundation/Shimmy/pull/74) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 💪 Opened PR [#73](https://github.com/Farama-Foundation/Shimmy/pull/73) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 💪 Opened PR [#955](https://github.com/Farama-Foundation/PettingZoo/pull/955) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 💪 Opened PR [#77](https://github.com/Farama-Foundation/farama.org/pull/77) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-5. ❗️ Opened issue [#1](https://github.com/trustycoder83/super-mario-bros-v0/issues/1) in [trustycoder83/super-mario-bros-v0](https://github.com/trustycoder83/super-mario-bros-v0)
-6. 💪 Opened PR [#76](https://github.com/Farama-Foundation/farama.org/pull/76) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-7. 🎉 Merged PR [#954](https://github.com/Farama-Foundation/PettingZoo/pull/954) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-10. 💪 Opened PR [#954](https://github.com/Farama-Foundation/PettingZoo/pull/954) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#79](https://github.com/Farama-Foundation/farama.org/pull/79) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+2. 💪 Opened PR [#74](https://github.com/Farama-Foundation/Shimmy/pull/74) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 💪 Opened PR [#73](https://github.com/Farama-Foundation/Shimmy/pull/73) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 💪 Opened PR [#955](https://github.com/Farama-Foundation/PettingZoo/pull/955) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 💪 Opened PR [#77](https://github.com/Farama-Foundation/farama.org/pull/77) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+6. ❗️ Opened issue [#1](https://github.com/trustycoder83/super-mario-bros-v0/issues/1) in [trustycoder83/super-mario-bros-v0](https://github.com/trustycoder83/super-mario-bros-v0)
+7. 💪 Opened PR [#76](https://github.com/Farama-Foundation/farama.org/pull/76) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+8. 🎉 Merged PR [#954](https://github.com/Farama-Foundation/PettingZoo/pull/954) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
 
