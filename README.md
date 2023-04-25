@@ -18,7 +18,7 @@ My personal interests include photography (see my [portfolio site](https://www.e
 
 🚀 I am the Project manager for the [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) library, the standard API for Multi-Agent Reinforcement Learning (MARL). 
 
-🎉 We are excited to soon announce a mature release of [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo. 
+🎉 We are excited to [announce](https://farama.org/Announcing-Shimmy) a mature release of [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo. 
 
 To learn more, see [Announcing the Farama Foundation](https://farama.org/Announcing-The-Farama-Foundation) and the [Farama Team](https://farama.org/team).
 
