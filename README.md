@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#541](https://github.com/Farama-Foundation/ViZDoom/pull/541) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
-2. 🗣 Commented on [#959](https://github.com/Farama-Foundation/PettingZoo/issues/959) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 💪 Opened PR [#48](https://github.com/Farama-Foundation/miniwob-plusplus/pull/48) in [Farama-Foundation/miniwob-plusplus](https://github.com/Farama-Foundation/miniwob-plusplus)
-4. 🎉 Merged PR [#958](https://github.com/Farama-Foundation/PettingZoo/pull/958) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#958](https://github.com/Farama-Foundation/PettingZoo/pull/958) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#23](https://github.com/DavidRother/cooking_zoo/issues/23) in [DavidRother/cooking_zoo](https://github.com/DavidRother/cooking_zoo)
-7. 🗣 Commented on [#471](https://github.com/Farama-Foundation/Gymnasium/issues/471) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-8. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
-10. 🎉 Merged PR [#957](https://github.com/Farama-Foundation/PettingZoo/pull/957) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#922](https://github.com/Farama-Foundation/PettingZoo/issues/922) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+3. 💪 Opened PR [#541](https://github.com/Farama-Foundation/ViZDoom/pull/541) in [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom)
+4. 🗣 Commented on [#959](https://github.com/Farama-Foundation/PettingZoo/issues/959) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 💪 Opened PR [#48](https://github.com/Farama-Foundation/miniwob-plusplus/pull/48) in [Farama-Foundation/miniwob-plusplus](https://github.com/Farama-Foundation/miniwob-plusplus)
+6. 🎉 Merged PR [#958](https://github.com/Farama-Foundation/PettingZoo/pull/958) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 💪 Opened PR [#958](https://github.com/Farama-Foundation/PettingZoo/pull/958) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#23](https://github.com/DavidRother/cooking_zoo/issues/23) in [DavidRother/cooking_zoo](https://github.com/DavidRother/cooking_zoo)
+9. 🗣 Commented on [#471](https://github.com/Farama-Foundation/Gymnasium/issues/471) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+10. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
