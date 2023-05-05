@@ -53,6 +53,11 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 Total Time: 15 hrs
 
 Other        11 hrs 6 mins   ██████████████████▓░░░░░░   74.00 %
+Markdown     3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
