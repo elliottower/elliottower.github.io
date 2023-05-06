@@ -50,14 +50,14 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs
+Total Time: 18 hrs 31 mins
 
-Other        11 hrs 6 mins   ██████████████████▓░░░░░░   74.00 %
-Markdown     3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other            13 hrs 7 mins   █████████████████▓░░░░░░░   70.85 %
+Markdown         3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+Python           1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+HTML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Jupyter          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
