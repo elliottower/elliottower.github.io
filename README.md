@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/chatarena/chatarena/issues/30) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-2. ❗️ Opened issue [#29](https://github.com/chatarena/chatarena/issues/29) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-3. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-5. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-6. 🗣 Commented on [#922](https://github.com/Farama-Foundation/PettingZoo/issues/922) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#484](https://github.com/Farama-Foundation/Gymnasium/pull/484) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-8. 💪 Opened PR [#960](https://github.com/Farama-Foundation/PettingZoo/pull/960) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. ❗️ Opened issue [#3986](https://github.com/hwchase17/langchain/issues/3986) in [hwchase17/langchain](https://github.com/hwchase17/langchain)
-10. 💪 Opened PR [#482](https://github.com/Farama-Foundation/Gymnasium/pull/482) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+1. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. ❗️ Opened issue [#30](https://github.com/chatarena/chatarena/issues/30) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+5. ❗️ Opened issue [#29](https://github.com/chatarena/chatarena/issues/29) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+6. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+9. 🗣 Commented on [#922](https://github.com/Farama-Foundation/PettingZoo/issues/922) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#484](https://github.com/Farama-Foundation/Gymnasium/pull/484) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
 <!--END_SECTION:activity-->
 
 
