@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#958](https://github.com/Farama-Foundation/PettingZoo/pull/958) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#958](https://github.com/Farama-Foundation/PettingZoo/pull/958) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#23](https://github.com/DavidRother/cooking_zoo/issues/23) in [DavidRother/cooking_zoo](https://github.com/DavidRother/cooking_zoo)
-4. 🗣 Commented on [#471](https://github.com/Farama-Foundation/Gymnasium/issues/471) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-5. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#26](https://github.com/stefanbschneider/mobile-env/issues/26) in [stefanbschneider/mobile-env](https://github.com/stefanbschneider/mobile-env)
-7. 🎉 Merged PR [#957](https://github.com/Farama-Foundation/PettingZoo/pull/957) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 💪 Opened PR [#957](https://github.com/Farama-Foundation/PettingZoo/pull/957) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#952](https://github.com/Farama-Foundation/PettingZoo/issues/952) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#966](https://github.com/Farama-Foundation/PettingZoo/issues/966) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🎉 Merged PR [#953](https://github.com/Farama-Foundation/PettingZoo/pull/953) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. ❗️ Opened issue [#30](https://github.com/chatarena/chatarena/issues/30) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+7. ❗️ Opened issue [#29](https://github.com/chatarena/chatarena/issues/29) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+10. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
 <!--END_SECTION:activity-->
 
 
@@ -50,9 +50,14 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 26 hrs 35 mins
+Total Time: 17 hrs 40 mins
 
-Other            19 hrs 27 mins  ██████████████████▒░░░░░░   73.20 %
+Other            12 hrs 14 mins  █████████████████▒░░░░░░░   69.33 %
+Markdown         3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+Python           1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+HTML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Jupyter          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
