@@ -45,24 +45,6 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 10. 🗣 Commented on [#14](https://github.com/chatarena/chatarena/issues/14) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
 <!--END_SECTION:activity-->
 
-
-## 🖥️ [Weekly development breakdown](https://wakatime.com/@elliottower)
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 17 hrs 40 mins
-
-Other            12 hrs 14 mins  █████████████████▒░░░░░░░   69.33 %
-Markdown         3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-Python           1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-HTML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Jupyter          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
-
-<!--END_SECTION:waka-->
-
-
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
 
 <!-- PDF-TO-MARKDOWN:START -->
