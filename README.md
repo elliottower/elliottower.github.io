@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#966](https://github.com/Farama-Foundation/PettingZoo/pull/966) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#33](https://github.com/chatarena/chatarena/pull/33) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-3. 🗣 Commented on [#209](https://github.com/eugenevinitsky/sequential_social_dilemma_games/issues/209) in [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
-4. 🗣 Commented on [#966](https://github.com/Farama-Foundation/PettingZoo/issues/966) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🎉 Merged PR [#953](https://github.com/Farama-Foundation/PettingZoo/pull/953) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 🗣 Commented on [#964](https://github.com/Farama-Foundation/PettingZoo/issues/964) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🎉 Merged PR [#966](https://github.com/Farama-Foundation/PettingZoo/pull/966) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 💪 Opened PR [#33](https://github.com/chatarena/chatarena/pull/33) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+4. 🗣 Commented on [#209](https://github.com/eugenevinitsky/sequential_social_dilemma_games/issues/209) in [eugenevinitsky/sequential_social_dilemma_games](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
+5. 🗣 Commented on [#966](https://github.com/Farama-Foundation/PettingZoo/issues/966) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🎉 Merged PR [#953](https://github.com/Farama-Foundation/PettingZoo/pull/953) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 8. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. ❗️ Opened issue [#30](https://github.com/chatarena/chatarena/issues/30) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-10. ❗️ Opened issue [#29](https://github.com/chatarena/chatarena/issues/29) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+9. 🗣 Commented on [#77](https://github.com/Farama-Foundation/Shimmy/issues/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. ❗️ Opened issue [#30](https://github.com/chatarena/chatarena/issues/30) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
