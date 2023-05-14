@@ -33,16 +33,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#984](https://github.com/Farama-Foundation/PettingZoo/issues/984) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 💪 Opened PR [#214](https://github.com/Farama-Foundation/SuperSuit/pull/214) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+2. 🗣 Commented on [#984](https://github.com/Farama-Foundation/PettingZoo/issues/984) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 3. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 🗣 Commented on [#22](https://github.com/Farama-Foundation/TinyScaler/issues/22) in [Farama-Foundation/TinyScaler](https://github.com/Farama-Foundation/TinyScaler)
+4. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
 5. 🗣 Commented on [#22](https://github.com/Farama-Foundation/TinyScaler/issues/22) in [Farama-Foundation/TinyScaler](https://github.com/Farama-Foundation/TinyScaler)
-6. 💪 Opened PR [#984](https://github.com/Farama-Foundation/PettingZoo/pull/984) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🎉 Merged PR [#983](https://github.com/Farama-Foundation/PettingZoo/pull/983) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 💪 Opened PR [#983](https://github.com/Farama-Foundation/PettingZoo/pull/983) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🎉 Merged PR [#964](https://github.com/Farama-Foundation/PettingZoo/pull/964) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. ❗️ Closed issue [#959](https://github.com/Farama-Foundation/PettingZoo/issues/959) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#22](https://github.com/Farama-Foundation/TinyScaler/issues/22) in [Farama-Foundation/TinyScaler](https://github.com/Farama-Foundation/TinyScaler)
+7. 💪 Opened PR [#984](https://github.com/Farama-Foundation/PettingZoo/pull/984) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🎉 Merged PR [#983](https://github.com/Farama-Foundation/PettingZoo/pull/983) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 💪 Opened PR [#983](https://github.com/Farama-Foundation/PettingZoo/pull/983) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🎉 Merged PR [#964](https://github.com/Farama-Foundation/PettingZoo/pull/964) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
