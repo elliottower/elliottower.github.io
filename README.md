@@ -12,15 +12,19 @@ My personal interests include photography (see my [portfolio site](https://www.e
 
 💥 A live version of Gobblet running in the browser can be viewed [here](https://elliottower.github.io/gobblet-rl/) (using [WebAssembly](https://webassembly.org/), see my [tutorial](https://github.com/elliottower/gobblet-rl/blob/main/tutorials/WebAssembly/web_assembly.md) for details).
 
-----
-
-#### Farama Foundation
+## Farama Foundation
 
 🚀 I am the Project manager for the [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) library, the standard API for Multi-Agent Reinforcement Learning (MARL). 
 
-🎉 We are excited to [announce](https://farama.org/Announcing-Shimmy) a mature release of [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo. 
-
 To learn more, see [Announcing the Farama Foundation](https://farama.org/Announcing-The-Farama-Foundation) and the [Farama Team](https://farama.org/team).
+
+## News
+
+🎉 PettingZoo 1.23.0 is now live! ([release notes](https://github.com/Farama-Foundation/PettingZoo/releases/tag/1.23.0)) This release standardizes the API to fully match Gymnasium, and includes many bugfixes, pickling support, and a documentation overhaul. Released alongside is SuperSuit 3.8.0 ([release notes](https://github.com/Farama-Foundation/SuperSuit/releases/tag/3.8.0)) 
+
+<!-- ![GitHub Release Date](https://img.shields.io/github/release-date/Farama-Foundation/PettingZoo) -->
+
+🎉 I am excited to announce a mature release of [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo ([blog post](https://farama.org/Announcing-Shimmy)) ([release notes](https://github.com/Farama-Foundation/Shimmy/releases/tag/v1.0.0)) 
 
 ## 📫 How to reach me:
 
