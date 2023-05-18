@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/elliottower/gobblet-rl/issues/2) in [elliottower/gobblet-rl](https://github.com/elliottower/gobblet-rl)
-2. 🗣 Commented on [#35](https://github.com/chatarena/chatarena/issues/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-3. 💪 Opened PR [#35](https://github.com/chatarena/chatarena/pull/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-4. ❗️ Closed issue [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 💪 Opened PR [#986](https://github.com/Farama-Foundation/PettingZoo/pull/986) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#985](https://github.com/Farama-Foundation/PettingZoo/pull/985) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#82](https://github.com/Farama-Foundation/Shimmy/issues/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🎉 Merged PR [#215](https://github.com/Farama-Foundation/SuperSuit/pull/215) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-10. 💪 Opened PR [#215](https://github.com/Farama-Foundation/SuperSuit/pull/215) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+1. 🗣 Commented on [#988](https://github.com/Farama-Foundation/PettingZoo/issues/988) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. ❗️ Opened issue [#2](https://github.com/elliottower/gobblet-rl/issues/2) in [elliottower/gobblet-rl](https://github.com/elliottower/gobblet-rl)
+3. 🗣 Commented on [#35](https://github.com/chatarena/chatarena/issues/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+4. 💪 Opened PR [#35](https://github.com/chatarena/chatarena/pull/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+5. ❗️ Closed issue [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 💪 Opened PR [#986](https://github.com/Farama-Foundation/PettingZoo/pull/986) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 💪 Opened PR [#985](https://github.com/Farama-Foundation/PettingZoo/pull/985) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#82](https://github.com/Farama-Foundation/Shimmy/issues/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🎉 Merged PR [#215](https://github.com/Farama-Foundation/SuperSuit/pull/215) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
