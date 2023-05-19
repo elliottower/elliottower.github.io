@@ -38,15 +38,15 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#988](https://github.com/Farama-Foundation/PettingZoo/issues/988) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
 3. 🗣 Commented on [#988](https://github.com/Farama-Foundation/PettingZoo/issues/988) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. ❗️ Opened issue [#2](https://github.com/elliottower/gobblet-rl/issues/2) in [elliottower/gobblet-rl](https://github.com/elliottower/gobblet-rl)
-5. 🗣 Commented on [#35](https://github.com/chatarena/chatarena/issues/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-6. 💪 Opened PR [#35](https://github.com/chatarena/chatarena/pull/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-7. ❗️ Closed issue [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 💪 Opened PR [#986](https://github.com/Farama-Foundation/PettingZoo/pull/986) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 💪 Opened PR [#985](https://github.com/Farama-Foundation/PettingZoo/pull/985) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#988](https://github.com/Farama-Foundation/PettingZoo/issues/988) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. ❗️ Opened issue [#2](https://github.com/elliottower/gobblet-rl/issues/2) in [elliottower/gobblet-rl](https://github.com/elliottower/gobblet-rl)
+6. 🗣 Commented on [#35](https://github.com/chatarena/chatarena/issues/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+7. 💪 Opened PR [#35](https://github.com/chatarena/chatarena/pull/35) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. ❗️ Closed issue [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#962](https://github.com/Farama-Foundation/PettingZoo/issues/962) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#986](https://github.com/Farama-Foundation/PettingZoo/pull/986) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
