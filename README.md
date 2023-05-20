@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/Farama-Foundation/Shimmy/issues/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 🗣 Commented on [#80](https://github.com/Farama-Foundation/Shimmy/issues/80) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 🗣 Commented on [#82](https://github.com/Farama-Foundation/Shimmy/issues/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🗣 Commented on [#85](https://github.com/Farama-Foundation/Shimmy/issues/85) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 💪 Opened PR [#86](https://github.com/Farama-Foundation/Shimmy/pull/86) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🗣 Commented on [#82](https://github.com/Farama-Foundation/Shimmy/issues/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 🗣 Commented on [#80](https://github.com/Farama-Foundation/Shimmy/issues/80) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🗣 Commented on [#82](https://github.com/Farama-Foundation/Shimmy/issues/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 5. 🗣 Commented on [#85](https://github.com/Farama-Foundation/Shimmy/issues/85) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. 🗣 Commented on [#1](https://github.com/Farama-Foundation/stable-retro/issues/1) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
-7. ❗️ Opened issue [#84](https://github.com/Farama-Foundation/Shimmy/issues/84) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 🗣 Commented on [#83](https://github.com/Farama-Foundation/Shimmy/issues/83) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. ❗️ Closed issue [#76](https://github.com/Farama-Foundation/Shimmy/issues/76) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. 🗣 Commented on [#83](https://github.com/Farama-Foundation/Shimmy/issues/83) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🗣 Commented on [#85](https://github.com/Farama-Foundation/Shimmy/issues/85) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 🗣 Commented on [#1](https://github.com/Farama-Foundation/stable-retro/issues/1) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
+8. ❗️ Opened issue [#84](https://github.com/Farama-Foundation/Shimmy/issues/84) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 🗣 Commented on [#83](https://github.com/Farama-Foundation/Shimmy/issues/83) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. ❗️ Closed issue [#76](https://github.com/Farama-Foundation/Shimmy/issues/76) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
