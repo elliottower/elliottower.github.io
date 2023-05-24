@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 🗣 Commented on [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. ❗️ Closed issue [#84](https://github.com/Farama-Foundation/Shimmy/issues/84) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. ❌ Closed PR [#82](https://github.com/Farama-Foundation/Shimmy/pull/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 💪 Opened PR [#88](https://github.com/Farama-Foundation/Shimmy/pull/88) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. 🎉 Merged PR [#86](https://github.com/Farama-Foundation/Shimmy/pull/86) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-7. 🎉 Merged PR [#80](https://github.com/Farama-Foundation/Shimmy/pull/80) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. ❌ Closed PR [#85](https://github.com/Farama-Foundation/Shimmy/pull/85) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. ❗️ Opened issue [#76](https://github.com/Farama-Foundation/Minari/issues/76) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-10. 🗣 Commented on [#75](https://github.com/Farama-Foundation/Minari/issues/75) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+1. 🎉 Merged PR [#88](https://github.com/Farama-Foundation/Shimmy/pull/88) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
+4. ❗️ Closed issue [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. ❗️ Closed issue [#84](https://github.com/Farama-Foundation/Shimmy/issues/84) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. ❌ Closed PR [#82](https://github.com/Farama-Foundation/Shimmy/pull/82) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. 💪 Opened PR [#88](https://github.com/Farama-Foundation/Shimmy/pull/88) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 🎉 Merged PR [#86](https://github.com/Farama-Foundation/Shimmy/pull/86) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🎉 Merged PR [#80](https://github.com/Farama-Foundation/Shimmy/pull/80) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
