@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/Farama-Foundation/Minari/issues/76) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-2. 🗣 Commented on [#75](https://github.com/Farama-Foundation/Minari/issues/75) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-3. 🎉 Merged PR [#87](https://github.com/Farama-Foundation/Shimmy/pull/87) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 💪 Opened PR [#87](https://github.com/Farama-Foundation/Shimmy/pull/87) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 🎉 Merged PR [#992](https://github.com/Farama-Foundation/PettingZoo/pull/992) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 💪 Opened PR [#992](https://github.com/Farama-Foundation/PettingZoo/pull/992) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🎉 Merged PR [#991](https://github.com/Farama-Foundation/PettingZoo/pull/991) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
-9. ❌ Closed PR [#77](https://github.com/Farama-Foundation/Shimmy/pull/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. 💪 Opened PR [#86](https://github.com/Farama-Foundation/Shimmy/pull/86) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. ❌ Closed PR [#85](https://github.com/Farama-Foundation/Shimmy/pull/85) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. ❗️ Opened issue [#76](https://github.com/Farama-Foundation/Minari/issues/76) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+3. 🗣 Commented on [#75](https://github.com/Farama-Foundation/Minari/issues/75) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+4. 🎉 Merged PR [#87](https://github.com/Farama-Foundation/Shimmy/pull/87) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 💪 Opened PR [#87](https://github.com/Farama-Foundation/Shimmy/pull/87) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🎉 Merged PR [#992](https://github.com/Farama-Foundation/PettingZoo/pull/992) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 💪 Opened PR [#992](https://github.com/Farama-Foundation/PettingZoo/pull/992) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🎉 Merged PR [#991](https://github.com/Farama-Foundation/PettingZoo/pull/991) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+10. ❌ Closed PR [#77](https://github.com/Farama-Foundation/Shimmy/pull/77) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
