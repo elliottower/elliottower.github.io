@@ -38,15 +38,15 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-4. 💪 Opened PR [#89](https://github.com/Farama-Foundation/Shimmy/pull/89) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 🎉 Merged PR [#88](https://github.com/Farama-Foundation/Shimmy/pull/88) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-6. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
+2. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 💪 Opened PR [#89](https://github.com/Farama-Foundation/Shimmy/pull/89) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🎉 Merged PR [#88](https://github.com/Farama-Foundation/Shimmy/pull/88) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 7. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
-8. ❗️ Closed issue [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🗣 Commented on [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. ❗️ Closed issue [#84](https://github.com/Farama-Foundation/Shimmy/issues/84) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+8. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
+9. ❗️ Closed issue [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🗣 Commented on [#15](https://github.com/Farama-Foundation/Shimmy/issues/15) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
