@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
-2. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-3. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-4. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-5. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 💪 Opened PR [#39](https://github.com/chatarena/chatarena/pull/39) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+2. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
+3. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+4. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
+5. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
 6. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-7. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
-8. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-9. 💪 Opened PR [#89](https://github.com/Farama-Foundation/Shimmy/pull/89) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. 🚀 Published release [Shimmy 1.0.1](https://github.com/Shimmy 1.0.1) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+7. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+8. 🗣 Commented on [#32382](https://github.com/ray-project/ray/issues/32382) in [ray-project/ray](https://github.com/ray-project/ray)
+9. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+10. 💪 Opened PR [#89](https://github.com/Farama-Foundation/Shimmy/pull/89) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
