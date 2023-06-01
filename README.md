@@ -37,15 +37,15 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. ❗ Opened issue [#901](https://github.com/instadeepai/Mava/issues/901) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
-4. 💪 Opened PR [#39](https://github.com/chatarena/chatarena/pull/39) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-5. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
-6. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-7. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-8. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-9. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+2. 🎉 Merged PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 💪 Opened PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. ❗ Opened issue [#901](https://github.com/instadeepai/Mava/issues/901) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
+5. 💪 Opened PR [#39](https://github.com/chatarena/chatarena/pull/39) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+6. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
+7. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+8. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
+9. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
 10. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
 
