@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+1. 💪 Opened PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
 2. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-3. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-4. 🎉 Merged PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. ❗ Opened issue [#901](https://github.com/instadeepai/Mava/issues/901) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
-7. 💪 Opened PR [#39](https://github.com/chatarena/chatarena/pull/39) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-8. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
-9. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-10. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
+3. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+4. 🗣 Commented on [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+5. ❗ Opened issue [#18](https://github.com/Farama-Foundation/Multi-Agent-ALE/issues/18) in [Farama-Foundation/Multi-Agent-ALE](https://github.com/Farama-Foundation/Multi-Agent-ALE)
+6. 🔒 Closed issue [#175](https://github.com/cogment/cogment-verse/issues/175) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+7. ❗ Opened issue [#175](https://github.com/cogment/cogment-verse/issues/175) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+8. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+9. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+10. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
