@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-2. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-3. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
-4. 🗣 Commented on [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
-5. ❗ Opened issue [#18](https://github.com/Farama-Foundation/Multi-Agent-ALE/issues/18) in [Farama-Foundation/Multi-Agent-ALE](https://github.com/Farama-Foundation/Multi-Agent-ALE)
-6. 🔒 Closed issue [#175](https://github.com/cogment/cogment-verse/issues/175) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-7. ❗ Opened issue [#175](https://github.com/cogment/cogment-verse/issues/175) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-8. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-9. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-10. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+1. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+2. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+3. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+4. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+5. 💪 Opened PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+6. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+7. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+8. 🗣 Commented on [#120](https://github.com/HumanCompatibleAI/overcooked_ai/issues/120) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+9. ❗ Opened issue [#18](https://github.com/Farama-Foundation/Multi-Agent-ALE/issues/18) in [Farama-Foundation/Multi-Agent-ALE](https://github.com/Farama-Foundation/Multi-Agent-ALE)
+10. 🔒 Closed issue [#175](https://github.com/cogment/cogment-verse/issues/175) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
