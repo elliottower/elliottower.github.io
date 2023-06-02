@@ -38,15 +38,15 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-2. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
-3. 🎉 Merged PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 💪 Opened PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. ❗ Opened issue [#901](https://github.com/instadeepai/Mava/issues/901) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
-6. 💪 Opened PR [#39](https://github.com/chatarena/chatarena/pull/39) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-7. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
-8. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-9. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
-10. 🗣 Commented on [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
+2. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+3. 🗣 Commented on [#279](https://github.com/Bam4d/Griddly/issues/279) in [Bam4d/Griddly](https://github.com/Bam4d/Griddly)
+4. 🎉 Merged PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 💪 Opened PR [#993](https://github.com/Farama-Foundation/PettingZoo/pull/993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. ❗ Opened issue [#901](https://github.com/instadeepai/Mava/issues/901) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
+7. 💪 Opened PR [#39](https://github.com/chatarena/chatarena/pull/39) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. ❗ Opened issue [#18](https://github.com/marl-book/fast-marl/issues/18) in [marl-book/fast-marl](https://github.com/marl-book/fast-marl)
+9. 🗣 Commented on [#387](https://github.com/vwxyzjn/cleanrl/issues/387) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+10. 🔒 Reopened issue [#7](https://github.com/Talendar/flappy-bird-gym/issues/7) in [Talendar/flappy-bird-gym](https://github.com/Talendar/flappy-bird-gym)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
