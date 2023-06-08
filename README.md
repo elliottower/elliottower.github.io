@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/chatarena/chatarena/pull/43) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-2. 💪 Opened PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-3. 💪 Opened PR [#41](https://github.com/chatarena/chatarena/pull/41) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-4. 🗣 Commented on [#408](https://github.com/Farama-Foundation/Metaworld/issues/408) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-5. ❗ Opened issue [#21](https://github.com/Farama-Foundation/stable-retro/issues/21) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
-6. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+1. 💪 Opened PR [#44](https://github.com/chatarena/chatarena/pull/44) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+2. 💪 Opened PR [#43](https://github.com/chatarena/chatarena/pull/43) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+3. 💪 Opened PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+4. 💪 Opened PR [#41](https://github.com/chatarena/chatarena/pull/41) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+5. 🗣 Commented on [#408](https://github.com/Farama-Foundation/Metaworld/issues/408) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+6. ❗ Opened issue [#21](https://github.com/Farama-Foundation/stable-retro/issues/21) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
 7. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
 8. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
 9. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-10. 💪 Opened PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+10. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/issues/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
