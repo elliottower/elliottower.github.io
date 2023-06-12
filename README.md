@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-2. 🗣 Commented on [#998](https://github.com/Farama-Foundation/PettingZoo/issues/998) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🎉 Merged PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
 3. 🗣 Commented on [#998](https://github.com/Farama-Foundation/PettingZoo/issues/998) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 💪 Opened PR [#998](https://github.com/Farama-Foundation/PettingZoo/pull/998) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
-6. 💪 Opened PR [#44](https://github.com/chatarena/chatarena/pull/44) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-7. 💪 Opened PR [#43](https://github.com/chatarena/chatarena/pull/43) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-8. 💪 Opened PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-9. 💪 Opened PR [#41](https://github.com/chatarena/chatarena/pull/41) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-10. 🗣 Commented on [#408](https://github.com/Farama-Foundation/Metaworld/issues/408) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+4. 🗣 Commented on [#998](https://github.com/Farama-Foundation/PettingZoo/issues/998) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 💪 Opened PR [#998](https://github.com/Farama-Foundation/PettingZoo/pull/998) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#123](https://github.com/HumanCompatibleAI/overcooked_ai/issues/123) in [HumanCompatibleAI/overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+7. 💪 Opened PR [#44](https://github.com/chatarena/chatarena/pull/44) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. 💪 Opened PR [#43](https://github.com/chatarena/chatarena/pull/43) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+9. 💪 Opened PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+10. 💪 Opened PR [#41](https://github.com/chatarena/chatarena/pull/41) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
