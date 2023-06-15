@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/Umshini/Umshini-Client/pull/21) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-2. 🎉 Merged PR [#3](https://github.com/Umshini/Umshini-Starter/pull/3) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-3. 🗣 Commented on [#2](https://github.com/Umshini/Umshini-Starter/issues/2) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-4. 💪 Opened PR [#3](https://github.com/Umshini/Umshini-Starter/pull/3) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-5. 💪 Opened PR [#28](https://github.com/princeton-nlp/tree-of-thought-llm/pull/28) in [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)
-6. ❗ Opened issue [#27](https://github.com/princeton-nlp/tree-of-thought-llm/issues/27) in [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)
-7. 🗣 Commented on [#2](https://github.com/Umshini/Umshini-Starter/issues/2) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-8. 🗣 Commented on [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🎉 Merged PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-10. 🗣 Commented on [#998](https://github.com/Farama-Foundation/PettingZoo/issues/998) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. ❗ Opened issue [#2](https://github.com/JBLanier/stratego_env/issues/2) in [JBLanier/stratego_env](https://github.com/JBLanier/stratego_env)
+2. 💪 Opened PR [#21](https://github.com/Umshini/Umshini-Client/pull/21) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 🎉 Merged PR [#3](https://github.com/Umshini/Umshini-Starter/pull/3) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+4. 🗣 Commented on [#2](https://github.com/Umshini/Umshini-Starter/issues/2) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+5. 💪 Opened PR [#3](https://github.com/Umshini/Umshini-Starter/pull/3) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+6. 💪 Opened PR [#28](https://github.com/princeton-nlp/tree-of-thought-llm/pull/28) in [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)
+7. ❗ Opened issue [#27](https://github.com/princeton-nlp/tree-of-thought-llm/issues/27) in [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)
+8. 🗣 Commented on [#2](https://github.com/Umshini/Umshini-Starter/issues/2) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+9. 🗣 Commented on [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🎉 Merged PR [#1](https://github.com/Umshini/Umshini-Starter/pull/1) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
