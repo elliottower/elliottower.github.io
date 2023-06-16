@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/Farama-Foundation/Shimmy/issues/45) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 💪 Opened PR [#93](https://github.com/Farama-Foundation/Shimmy/pull/93) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 🔒 Reopened issue [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🗣 Commented on [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 💪 Opened PR [#22](https://github.com/Umshini/Umshini-Client/pull/22) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-6. 💪 Opened PR [#47](https://github.com/chatarena/chatarena/pull/47) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-7. 🗣 Commented on [#989](https://github.com/Farama-Foundation/PettingZoo/issues/989) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🚀 Published release [Shimmy 1.1.0](https://github.com/Shimmy 1.1.0) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-9. 🔒 Closed issue [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-10. 🗣 Commented on [#550](https://github.com/Farama-Foundation/Gymnasium/issues/550) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+1. 🗣 Commented on [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🔒 Closed issue [#45](https://github.com/Farama-Foundation/Shimmy/issues/45) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 💪 Opened PR [#93](https://github.com/Farama-Foundation/Shimmy/pull/93) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🔒 Reopened issue [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#22](https://github.com/Umshini/Umshini-Client/pull/22) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+7. 💪 Opened PR [#47](https://github.com/chatarena/chatarena/pull/47) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. 🗣 Commented on [#989](https://github.com/Farama-Foundation/PettingZoo/issues/989) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🚀 Published release [Shimmy 1.1.0](https://github.com/Shimmy 1.1.0) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🔒 Closed issue [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
