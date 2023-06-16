@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#550](https://github.com/Farama-Foundation/Gymnasium/issues/550) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-2. 🎉 Merged PR [#21](https://github.com/Umshini/Umshini-Client/pull/21) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-3. 🎉 Merged PR [#997](https://github.com/Farama-Foundation/PettingZoo/pull/997) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🎉 Merged PR [#994](https://github.com/Farama-Foundation/PettingZoo/pull/994) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#997](https://github.com/Farama-Foundation/PettingZoo/issues/997) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#997](https://github.com/Farama-Foundation/PettingZoo/issues/997) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#994](https://github.com/Farama-Foundation/PettingZoo/issues/994) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. ❗ Opened issue [#2](https://github.com/JBLanier/stratego_env/issues/2) in [JBLanier/stratego_env](https://github.com/JBLanier/stratego_env)
-9. 💪 Opened PR [#21](https://github.com/Umshini/Umshini-Client/pull/21) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 🎉 Merged PR [#3](https://github.com/Umshini/Umshini-Starter/pull/3) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+1. 🗣 Commented on [#989](https://github.com/Farama-Foundation/PettingZoo/issues/989) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🚀 Published release [Shimmy 1.1.0](https://github.com/Shimmy 1.1.0) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 🔒 Closed issue [#90](https://github.com/Farama-Foundation/Shimmy/issues/90) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🗣 Commented on [#550](https://github.com/Farama-Foundation/Gymnasium/issues/550) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+5. 🎉 Merged PR [#21](https://github.com/Umshini/Umshini-Client/pull/21) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+6. 🎉 Merged PR [#997](https://github.com/Farama-Foundation/PettingZoo/pull/997) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#994](https://github.com/Farama-Foundation/PettingZoo/pull/994) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#997](https://github.com/Farama-Foundation/PettingZoo/issues/997) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#997](https://github.com/Farama-Foundation/PettingZoo/issues/997) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#994](https://github.com/Farama-Foundation/PettingZoo/issues/994) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
