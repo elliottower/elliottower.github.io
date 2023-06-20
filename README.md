@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Umshini/Umshini-Client/pull/23) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-2. 🎉 Merged PR [#1003](https://github.com/Farama-Foundation/PettingZoo/pull/1003) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 💪 Opened PR [#1003](https://github.com/Farama-Foundation/PettingZoo/pull/1003) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🎉 Merged PR [#1002](https://github.com/Farama-Foundation/PettingZoo/pull/1002) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#1002](https://github.com/Farama-Foundation/PettingZoo/pull/1002) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🎉 Merged PR [#22](https://github.com/Umshini/Umshini-Client/pull/22) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-7. 🗣 Commented on [#32889](https://github.com/ray-project/ray/issues/32889) in [ray-project/ray](https://github.com/ray-project/ray)
-8. 🎉 Merged PR [#999](https://github.com/Farama-Foundation/PettingZoo/pull/999) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#996](https://github.com/Farama-Foundation/PettingZoo/issues/996) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#999](https://github.com/Farama-Foundation/PettingZoo/issues/999) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#1005](https://github.com/Farama-Foundation/PettingZoo/issues/1005) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 💪 Opened PR [#23](https://github.com/Umshini/Umshini-Client/pull/23) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 🎉 Merged PR [#1003](https://github.com/Farama-Foundation/PettingZoo/pull/1003) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#1003](https://github.com/Farama-Foundation/PettingZoo/pull/1003) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🎉 Merged PR [#1002](https://github.com/Farama-Foundation/PettingZoo/pull/1002) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#1002](https://github.com/Farama-Foundation/PettingZoo/pull/1002) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#22](https://github.com/Umshini/Umshini-Client/pull/22) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+8. 🗣 Commented on [#32889](https://github.com/ray-project/ray/issues/32889) in [ray-project/ray](https://github.com/ray-project/ray)
+9. 🎉 Merged PR [#999](https://github.com/Farama-Foundation/PettingZoo/pull/999) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#996](https://github.com/Farama-Foundation/PettingZoo/issues/996) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
