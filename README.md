@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35698](https://github.com/ray-project/ray/issues/35698) in [ray-project/ray](https://github.com/ray-project/ray)
-2. 🗣 Commented on [#32889](https://github.com/ray-project/ray/issues/32889) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 💪 Opened PR [#52](https://github.com/chatarena/chatarena/pull/52) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-4. 🗣 Commented on [#24](https://github.com/Umshini/Umshini-Client/issues/24) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-5. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+1. ❗ Opened issue [#2034](https://github.com/3b1b/manim/issues/2034) in [3b1b/manim](https://github.com/3b1b/manim)
+2. 🗣 Commented on [#35698](https://github.com/ray-project/ray/issues/35698) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#32889](https://github.com/ray-project/ray/issues/32889) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 💪 Opened PR [#52](https://github.com/chatarena/chatarena/pull/52) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+5. 🗣 Commented on [#24](https://github.com/Umshini/Umshini-Client/issues/24) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 6. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
-7. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-8. 🗣 Commented on [#24](https://github.com/Umshini/Umshini-Client/issues/24) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 💪 Opened PR [#24](https://github.com/Umshini/Umshini-Client/pull/24) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 💪 Opened PR [#50](https://github.com/chatarena/chatarena/pull/50) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+7. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+8. 🗣 Commented on [#142](https://github.com/cogment/cogment-verse/issues/142) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+9. 🗣 Commented on [#24](https://github.com/Umshini/Umshini-Client/issues/24) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+10. 💪 Opened PR [#24](https://github.com/Umshini/Umshini-Client/pull/24) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
