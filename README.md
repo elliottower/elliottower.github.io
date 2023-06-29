@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#578](https://github.com/Farama-Foundation/Gymnasium/pull/578) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-2. 💪 Opened PR [#416](https://github.com/Farama-Foundation/Metaworld/pull/416) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-3. ❌ Closed PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-4. 💪 Opened PR [#415](https://github.com/Farama-Foundation/Metaworld/pull/415) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-5. 🗣 Commented on [#414](https://github.com/Farama-Foundation/Metaworld/issues/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+1. 💪 Opened PR [#417](https://github.com/Farama-Foundation/Metaworld/pull/417) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+2. 💪 Opened PR [#578](https://github.com/Farama-Foundation/Gymnasium/pull/578) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+3. 💪 Opened PR [#416](https://github.com/Farama-Foundation/Metaworld/pull/416) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+4. ❌ Closed PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+5. 💪 Opened PR [#415](https://github.com/Farama-Foundation/Metaworld/pull/415) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
 6. 🗣 Commented on [#414](https://github.com/Farama-Foundation/Metaworld/issues/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-7. 💪 Opened PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-8. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
-9. 🔒 Closed issue [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
-10. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+7. 🗣 Commented on [#414](https://github.com/Farama-Foundation/Metaworld/issues/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+8. 💪 Opened PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+9. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+10. 🔒 Closed issue [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
