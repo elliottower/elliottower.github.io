@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/Farama-Foundation/Metaworld/issues/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+1. 💪 Opened PR [#415](https://github.com/Farama-Foundation/Metaworld/pull/415) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
 2. 🗣 Commented on [#414](https://github.com/Farama-Foundation/Metaworld/issues/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-3. 💪 Opened PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-4. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
-5. 🔒 Closed issue [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
-6. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
-7. ❗ Opened issue [#1575](https://github.com/DLR-RM/stable-baselines3/issues/1575) in [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)
-8. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
+3. 🗣 Commented on [#414](https://github.com/Farama-Foundation/Metaworld/issues/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+4. 💪 Opened PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+5. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+6. 🔒 Closed issue [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+7. 🗣 Commented on [#2264](https://github.com/pygame-community/pygame-ce/issues/2264) in [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce)
+8. ❗ Opened issue [#1575](https://github.com/DLR-RM/stable-baselines3/issues/1575) in [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)
 9. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
-10. 🗣 Commented on [#99](https://github.com/Farama-Foundation/Minari/issues/99) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+10. 🗣 Commented on [#86](https://github.com/AminHP/gym-anytrading/issues/86) in [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
