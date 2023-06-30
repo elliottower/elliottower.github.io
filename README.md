@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Farama-Foundation/MAgent2/issues/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-2. 🎉 Merged PR [#18](https://github.com/Farama-Foundation/MAgent2/pull/18) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-3. 🗣 Commented on [#21](https://github.com/Farama-Foundation/MAgent2/issues/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+1. 💪 Opened PR [#22](https://github.com/Farama-Foundation/MAgent2/pull/22) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+2. 🗣 Commented on [#21](https://github.com/Farama-Foundation/MAgent2/issues/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+3. 🎉 Merged PR [#18](https://github.com/Farama-Foundation/MAgent2/pull/18) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 4. 🗣 Commented on [#21](https://github.com/Farama-Foundation/MAgent2/issues/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-5. 🗣 Commented on [#16](https://github.com/Farama-Foundation/MAgent2/issues/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-6. 💪 Opened PR [#417](https://github.com/Farama-Foundation/Metaworld/pull/417) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-7. 💪 Opened PR [#578](https://github.com/Farama-Foundation/Gymnasium/pull/578) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-8. 💪 Opened PR [#416](https://github.com/Farama-Foundation/Metaworld/pull/416) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-9. ❌ Closed PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
-10. 💪 Opened PR [#415](https://github.com/Farama-Foundation/Metaworld/pull/415) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+5. 🗣 Commented on [#21](https://github.com/Farama-Foundation/MAgent2/issues/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+6. 🗣 Commented on [#16](https://github.com/Farama-Foundation/MAgent2/issues/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+7. 💪 Opened PR [#417](https://github.com/Farama-Foundation/Metaworld/pull/417) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+8. 💪 Opened PR [#578](https://github.com/Farama-Foundation/Gymnasium/pull/578) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+9. 💪 Opened PR [#416](https://github.com/Farama-Foundation/Metaworld/pull/416) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
+10. ❌ Closed PR [#414](https://github.com/Farama-Foundation/Metaworld/pull/414) in [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
