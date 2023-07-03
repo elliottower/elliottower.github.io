@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Farama-Foundation/stable-retro/issues/21) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
-2. 🎉 Merged PR [#25](https://github.com/Farama-Foundation/MAgent2/pull/25) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-3. 💪 Opened PR [#25](https://github.com/Farama-Foundation/MAgent2/pull/25) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-4. ❗ Opened issue [#24](https://github.com/Farama-Foundation/MAgent2/issues/24) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-5. 🎉 Merged PR [#23](https://github.com/Farama-Foundation/MAgent2/pull/23) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-6. ❌ Closed PR [#16](https://github.com/Farama-Foundation/MAgent2/pull/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-7. 💪 Opened PR [#23](https://github.com/Farama-Foundation/MAgent2/pull/23) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-8. 🗣 Commented on [#16](https://github.com/Farama-Foundation/MAgent2/issues/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-9. ❌ Closed PR [#21](https://github.com/Farama-Foundation/MAgent2/pull/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
-10. 🗣 Commented on [#21](https://github.com/Farama-Foundation/MAgent2/issues/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+1. 🗣 Commented on [#98](https://github.com/Farama-Foundation/Minari/issues/98) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+2. 🗣 Commented on [#21](https://github.com/Farama-Foundation/stable-retro/issues/21) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
+3. 🎉 Merged PR [#25](https://github.com/Farama-Foundation/MAgent2/pull/25) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+4. 💪 Opened PR [#25](https://github.com/Farama-Foundation/MAgent2/pull/25) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+5. ❗ Opened issue [#24](https://github.com/Farama-Foundation/MAgent2/issues/24) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+6. 🎉 Merged PR [#23](https://github.com/Farama-Foundation/MAgent2/pull/23) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+7. ❌ Closed PR [#16](https://github.com/Farama-Foundation/MAgent2/pull/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+8. 💪 Opened PR [#23](https://github.com/Farama-Foundation/MAgent2/pull/23) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+9. 🗣 Commented on [#16](https://github.com/Farama-Foundation/MAgent2/issues/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+10. ❌ Closed PR [#21](https://github.com/Farama-Foundation/MAgent2/pull/21) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 <!--END_SECTION:activity-->
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
