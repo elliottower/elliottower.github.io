@@ -26,7 +26,7 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 
 🎉 I am excited to announce a mature release of [Shimmy](https://github.com/Farama-Foundation/Shimmy), an API conversion tool for using popular external RL environments with Gymnasium and PettingZoo ([blog post](https://farama.org/Announcing-Shimmy)) ([release notes](https://github.com/Farama-Foundation/Shimmy/releases/tag/v1.0.0)) 
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
  [![Send me an Email](https://img.shields.io/badge/email-elliot%40elliottower.com-blue)](mailto:elliot@elliottower.com)
  [![Discord profile](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/83091537923145728)
@@ -34,7 +34,7 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
  [![Twitter profile](https://img.shields.io/twitter/follow/elliottower?style=social)](https://twitter.com/ElliotTower/)
  [![GitHub followers](https://img.shields.io/github/followers/elliottower?style=social)](https://github.com/elliottower/)
 
-## ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
+### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/Farama-Foundation/stable-retro/issues/21) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
@@ -48,6 +48,13 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 9. ❌ Closed PR [#16](https://github.com/Farama-Foundation/MAgent2/pull/16) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 10. 💪 Opened PR [#23](https://github.com/Farama-Foundation/MAgent2/pull/23) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
 <!--END_SECTION:activity-->
+
+
+<picture>
+  <a href="https://metrics.lecoq.io/insights?user=elliottower">
+   <img src="/github-metrics.svg" alt="Metrics">
+  </a>
+</picture>
 
 ## 📄 [Resume](https://elliottower.github.io/src/pdf/resume.pdf)
 
