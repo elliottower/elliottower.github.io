@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#217](https://github.com/Farama-Foundation/SuperSuit/issues/217) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-2. 🎉 Merged PR [#1004](https://github.com/Farama-Foundation/PettingZoo/pull/1004) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🎉 Merged PR [#1012](https://github.com/Farama-Foundation/PettingZoo/pull/1012) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#1008](https://github.com/Farama-Foundation/PettingZoo/issues/1008) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🎉 Merged PR [#1011](https://github.com/Farama-Foundation/PettingZoo/pull/1011) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 💪 Opened PR [#1013](https://github.com/Farama-Foundation/PettingZoo/pull/1013) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#1012](https://github.com/Farama-Foundation/PettingZoo/pull/1012) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#1001](https://github.com/Farama-Foundation/PettingZoo/issues/1001) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#1007](https://github.com/Farama-Foundation/PettingZoo/issues/1007) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#1008](https://github.com/Farama-Foundation/PettingZoo/issues/1008) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#218](https://github.com/Farama-Foundation/SuperSuit/pull/218) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+2. ❗ Opened issue [#217](https://github.com/Farama-Foundation/SuperSuit/issues/217) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+3. 🎉 Merged PR [#1004](https://github.com/Farama-Foundation/PettingZoo/pull/1004) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🎉 Merged PR [#1012](https://github.com/Farama-Foundation/PettingZoo/pull/1012) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#1008](https://github.com/Farama-Foundation/PettingZoo/issues/1008) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🎉 Merged PR [#1011](https://github.com/Farama-Foundation/PettingZoo/pull/1011) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 💪 Opened PR [#1013](https://github.com/Farama-Foundation/PettingZoo/pull/1013) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 💪 Opened PR [#1012](https://github.com/Farama-Foundation/PettingZoo/pull/1012) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#1001](https://github.com/Farama-Foundation/PettingZoo/issues/1001) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#1007](https://github.com/Farama-Foundation/PettingZoo/issues/1007) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
