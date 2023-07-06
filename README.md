@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1010](https://github.com/Farama-Foundation/PettingZoo/pull/1010) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#1](https://github.com/kyegomez/LongNet/issues/1) in [kyegomez/LongNet](https://github.com/kyegomez/LongNet)
-3. 💪 Opened PR [#1010](https://github.com/Farama-Foundation/PettingZoo/pull/1010) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. ❌ Closed PR [#1009](https://github.com/Farama-Foundation/PettingZoo/pull/1009) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#1009](https://github.com/Farama-Foundation/PettingZoo/issues/1009) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 💪 Opened PR [#1009](https://github.com/Farama-Foundation/PettingZoo/pull/1009) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. ❗ Opened issue [#1](https://github.com/kyegomez/LongNet/issues/1) in [kyegomez/LongNet](https://github.com/kyegomez/LongNet)
-8. 🗣 Commented on [#21](https://github.com/Farama-Foundation/stable-retro/issues/21) in [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
-9. 🗣 Commented on [#28](https://github.com/princeton-nlp/tree-of-thought-llm/issues/28) in [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)
-10. 🗣 Commented on [#98](https://github.com/Farama-Foundation/Minari/issues/98) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+1. 🗣 Commented on [#996](https://github.com/Farama-Foundation/PettingZoo/issues/996) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#996](https://github.com/Farama-Foundation/PettingZoo/issues/996) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#1001](https://github.com/Farama-Foundation/PettingZoo/issues/1001) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#1008](https://github.com/Farama-Foundation/PettingZoo/issues/1008) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🎉 Merged PR [#1010](https://github.com/Farama-Foundation/PettingZoo/pull/1010) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#1](https://github.com/kyegomez/LongNet/issues/1) in [kyegomez/LongNet](https://github.com/kyegomez/LongNet)
+7. 💪 Opened PR [#1010](https://github.com/Farama-Foundation/PettingZoo/pull/1010) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. ❌ Closed PR [#1009](https://github.com/Farama-Foundation/PettingZoo/pull/1009) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#1009](https://github.com/Farama-Foundation/PettingZoo/issues/1009) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 💪 Opened PR [#1009](https://github.com/Farama-Foundation/PettingZoo/pull/1009) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
