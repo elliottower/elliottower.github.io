@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/deepmind/meltingpot/issues/140) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-2. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-3. 🗣 Commented on [#989](https://github.com/Farama-Foundation/PettingZoo/issues/989) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-5. 🎉 Merged PR [#1022](https://github.com/Farama-Foundation/PettingZoo/pull/1022) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
-7. 💪 Opened PR [#1022](https://github.com/Farama-Foundation/PettingZoo/pull/1022) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#922](https://github.com/Farama-Foundation/PettingZoo/issues/922) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🔒 Closed issue [#922](https://github.com/Farama-Foundation/PettingZoo/issues/922) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#963](https://github.com/Farama-Foundation/PettingZoo/issues/963) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. ❌ Closed PR [#52](https://github.com/chatarena/chatarena/pull/52) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+2. 💪 Opened PR [#54](https://github.com/chatarena/chatarena/pull/54) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+3. 🗣 Commented on [#140](https://github.com/deepmind/meltingpot/issues/140) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+4. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+5. 🗣 Commented on [#989](https://github.com/Farama-Foundation/PettingZoo/issues/989) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+7. 🎉 Merged PR [#1022](https://github.com/Farama-Foundation/PettingZoo/pull/1022) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#34696](https://github.com/ray-project/ray/issues/34696) in [ray-project/ray](https://github.com/ray-project/ray)
+9. 💪 Opened PR [#1022](https://github.com/Farama-Foundation/PettingZoo/pull/1022) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#922](https://github.com/Farama-Foundation/PettingZoo/issues/922) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
