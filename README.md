@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/Replicable-MARL/MARLlib/issues/126) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
-2. 🗣 Commented on [#25](https://github.com/Umshini/Umshini-Client/issues/25) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-3. 💪 Opened PR [#25](https://github.com/Umshini/Umshini-Client/pull/25) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-4. 🎉 Merged PR [#1023](https://github.com/Farama-Foundation/PettingZoo/pull/1023) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#1023](https://github.com/Farama-Foundation/PettingZoo/pull/1023) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. ❌ Closed PR [#52](https://github.com/chatarena/chatarena/pull/52) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-7. 💪 Opened PR [#54](https://github.com/chatarena/chatarena/pull/54) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-8. 🗣 Commented on [#140](https://github.com/deepmind/meltingpot/issues/140) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-9. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-10. 🗣 Commented on [#989](https://github.com/Farama-Foundation/PettingZoo/issues/989) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#408](https://github.com/vwxyzjn/cleanrl/pull/408) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+2. 🗣 Commented on [#126](https://github.com/Replicable-MARL/MARLlib/issues/126) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
+3. 🗣 Commented on [#25](https://github.com/Umshini/Umshini-Client/issues/25) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+4. 💪 Opened PR [#25](https://github.com/Umshini/Umshini-Client/pull/25) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+5. 🎉 Merged PR [#1023](https://github.com/Farama-Foundation/PettingZoo/pull/1023) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#1023](https://github.com/Farama-Foundation/PettingZoo/pull/1023) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. ❌ Closed PR [#52](https://github.com/chatarena/chatarena/pull/52) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+8. 💪 Opened PR [#54](https://github.com/chatarena/chatarena/pull/54) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+9. 🗣 Commented on [#140](https://github.com/deepmind/meltingpot/issues/140) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+10. 🗣 Commented on [#118](https://github.com/deepmind/meltingpot/issues/118) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
 <!--END_SECTION:activity-->
 
 
