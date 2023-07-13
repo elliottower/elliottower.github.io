@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1024](https://github.com/Farama-Foundation/PettingZoo/pull/1024) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 💪 Opened PR [#95](https://github.com/Farama-Foundation/Shimmy/pull/95) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 💪 Opened PR [#378](https://github.com/Farama-Foundation/Minigrid/pull/378) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-4. ❗ Opened issue [#30](https://github.com/deepmind/lab2d/issues/30) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-5. 💪 Opened PR [#408](https://github.com/vwxyzjn/cleanrl/pull/408) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-6. 🗣 Commented on [#126](https://github.com/Replicable-MARL/MARLlib/issues/126#issuecomment-1631679625) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
-7. 🗣 Commented on [#25](https://github.com/Umshini/Umshini-Client/pull/25#issuecomment-1631601789) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-8. 💪 Opened PR [#25](https://github.com/Umshini/Umshini-Client/pull/25) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 🎉 Merged PR [#1023](https://github.com/Farama-Foundation/PettingZoo/pull/1023) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 💪 Opened PR [#1023](https://github.com/Farama-Foundation/PettingZoo/pull/1023) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#30](https://github.com/deepmind/lab2d/issues/30#issuecomment-1634535428) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+2. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1634514753) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+3. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1634508938) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+4. 💪 Opened PR [#1024](https://github.com/Farama-Foundation/PettingZoo/pull/1024) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 💪 Opened PR [#95](https://github.com/Farama-Foundation/Shimmy/pull/95) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 💪 Opened PR [#378](https://github.com/Farama-Foundation/Minigrid/pull/378) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
+7. ❗ Opened issue [#30](https://github.com/deepmind/lab2d/issues/30) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+8. 💪 Opened PR [#408](https://github.com/vwxyzjn/cleanrl/pull/408) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+9. 🗣 Commented on [#126](https://github.com/Replicable-MARL/MARLlib/issues/126#issuecomment-1631679625) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
+10. 🗣 Commented on [#25](https://github.com/Umshini/Umshini-Client/pull/25#issuecomment-1631601789) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
