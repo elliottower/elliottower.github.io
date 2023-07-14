@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#699](https://github.com/minerllabs/minerl/issues/699#issuecomment-1636463805) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
-2. 💪 Opened PR [#1025](https://github.com/Farama-Foundation/PettingZoo/pull/1025) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#30](https://github.com/deepmind/lab2d/issues/30#issuecomment-1634535428) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-4. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1634514753) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-5. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1634508938) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-6. 💪 Opened PR [#1024](https://github.com/Farama-Foundation/PettingZoo/pull/1024) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 💪 Opened PR [#95](https://github.com/Farama-Foundation/Shimmy/pull/95) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 💪 Opened PR [#378](https://github.com/Farama-Foundation/Minigrid/pull/378) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-9. ❗ Opened issue [#30](https://github.com/deepmind/lab2d/issues/30) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-10. 💪 Opened PR [#408](https://github.com/vwxyzjn/cleanrl/pull/408) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+1. 🚀 Published release [v0.0.8](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.8) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+2. 🎉 Merged PR [#25](https://github.com/Umshini/Umshini-Client/pull/25) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 🗣 Commented on [#699](https://github.com/minerllabs/minerl/issues/699#issuecomment-1636463805) in [minerllabs/minerl](https://github.com/minerllabs/minerl)
+4. 💪 Opened PR [#1025](https://github.com/Farama-Foundation/PettingZoo/pull/1025) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#30](https://github.com/deepmind/lab2d/issues/30#issuecomment-1634535428) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+6. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1634514753) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+7. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1634508938) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+8. 💪 Opened PR [#1024](https://github.com/Farama-Foundation/PettingZoo/pull/1024) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 💪 Opened PR [#95](https://github.com/Farama-Foundation/Shimmy/pull/95) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 💪 Opened PR [#378](https://github.com/Farama-Foundation/Minigrid/pull/378) in [Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
 <!--END_SECTION:activity-->
 
 
