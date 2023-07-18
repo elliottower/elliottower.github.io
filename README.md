@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640914671) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-2. ❌ Closed PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-3. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640912868) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-4. 💪 Opened PR [#117](https://github.com/Farama-Foundation/Minari/pull/117) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-5. 💪 Opened PR [#1032](https://github.com/Farama-Foundation/PettingZoo/pull/1032) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🎉 Merged PR [#101](https://github.com/Farama-Foundation/Shimmy/pull/101) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-7. 🎉 Merged PR [#224](https://github.com/Farama-Foundation/SuperSuit/pull/224) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-8. 🗣 Commented on [#617](https://github.com/Farama-Foundation/Gymnasium/issues/617#issuecomment-1640523240) in [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
-9. 🎉 Merged PR [#225](https://github.com/Farama-Foundation/SuperSuit/pull/225) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-10. 🗣 Commented on [#26](https://github.com/Farama-Foundation/MAgent2/pull/26#issuecomment-1639579841) in [Farama-Foundation/MAgent2](https://github.com/Farama-Foundation/MAgent2)
+1. 🗣 Commented on [#221](https://github.com/Farama-Foundation/SuperSuit/pull/221#issuecomment-1641076189) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+2. 💪 Opened PR [#1034](https://github.com/Farama-Foundation/PettingZoo/pull/1034) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 💪 Opened PR [#1033](https://github.com/Farama-Foundation/PettingZoo/pull/1033) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640914671) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+5. ❌ Closed PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+6. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640912868) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+7. 💪 Opened PR [#117](https://github.com/Farama-Foundation/Minari/pull/117) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+8. 💪 Opened PR [#1032](https://github.com/Farama-Foundation/PettingZoo/pull/1032) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🎉 Merged PR [#101](https://github.com/Farama-Foundation/Shimmy/pull/101) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+10. 🎉 Merged PR [#224](https://github.com/Farama-Foundation/SuperSuit/pull/224) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
 <!--END_SECTION:activity-->
 
 
