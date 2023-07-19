@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#948](https://github.com/Farama-Foundation/PettingZoo/pull/948#issuecomment-1641458395) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#221](https://github.com/Farama-Foundation/SuperSuit/pull/221#issuecomment-1641085225) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-3. 🗣 Commented on [#221](https://github.com/Farama-Foundation/SuperSuit/pull/221#issuecomment-1641076189) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-4. 💪 Opened PR [#1034](https://github.com/Farama-Foundation/PettingZoo/pull/1034) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 💪 Opened PR [#1033](https://github.com/Farama-Foundation/PettingZoo/pull/1033) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640914671) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-7. ❌ Closed PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-8. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640912868) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
-9. 💪 Opened PR [#117](https://github.com/Farama-Foundation/Minari/pull/117) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-10. 💪 Opened PR [#1032](https://github.com/Farama-Foundation/PettingZoo/pull/1032) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#226](https://github.com/Farama-Foundation/SuperSuit/pull/226) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+2. 🗣 Commented on [#948](https://github.com/Farama-Foundation/PettingZoo/pull/948#issuecomment-1641458395) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#221](https://github.com/Farama-Foundation/SuperSuit/pull/221#issuecomment-1641085225) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+4. 🗣 Commented on [#221](https://github.com/Farama-Foundation/SuperSuit/pull/221#issuecomment-1641076189) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+5. 💪 Opened PR [#1034](https://github.com/Farama-Foundation/PettingZoo/pull/1034) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 💪 Opened PR [#1033](https://github.com/Farama-Foundation/PettingZoo/pull/1033) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640914671) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+8. ❌ Closed PR [#176](https://github.com/cogment/cogment-verse/pull/176) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+9. 🗣 Commented on [#176](https://github.com/cogment/cogment-verse/pull/176#issuecomment-1640912868) in [cogment/cogment-verse](https://github.com/cogment/cogment-verse)
+10. 💪 Opened PR [#117](https://github.com/Farama-Foundation/Minari/pull/117) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
 <!--END_SECTION:activity-->
 
 
