@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/Farama-Foundation/SuperSuit/pull/230) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-2. 🎉 Merged PR [#227](https://github.com/Farama-Foundation/SuperSuit/pull/227) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-3. 🗣 Commented on [#73](https://github.com/jr-robotics/robo-gym/issues/73#issuecomment-1644093624) in [jr-robotics/robo-gym](https://github.com/jr-robotics/robo-gym)
-4. 🎉 Merged PR [#228](https://github.com/Farama-Foundation/SuperSuit/pull/228) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-5. 🗣 Commented on [#228](https://github.com/Farama-Foundation/SuperSuit/pull/228#issuecomment-1643456479) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-6. 💪 Opened PR [#230](https://github.com/Farama-Foundation/SuperSuit/pull/230) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-7. ❗ Opened issue [#229](https://github.com/Farama-Foundation/SuperSuit/issues/229) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-8. 🔒 Closed issue [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-9. 🗣 Commented on [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216#issuecomment-1643412007) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-10. 🗣 Commented on [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216#issuecomment-1643403517) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+1. 🚀 Published release [v0.0.9](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.9) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+2. 🎉 Merged PR [#26](https://github.com/Umshini/Umshini-Client/pull/26) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 💪 Opened PR [#26](https://github.com/Umshini/Umshini-Client/pull/26) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+4. 🎉 Merged PR [#230](https://github.com/Farama-Foundation/SuperSuit/pull/230) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+5. 🎉 Merged PR [#227](https://github.com/Farama-Foundation/SuperSuit/pull/227) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+6. 🗣 Commented on [#73](https://github.com/jr-robotics/robo-gym/issues/73#issuecomment-1644093624) in [jr-robotics/robo-gym](https://github.com/jr-robotics/robo-gym)
+7. 🎉 Merged PR [#228](https://github.com/Farama-Foundation/SuperSuit/pull/228) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+8. 🗣 Commented on [#228](https://github.com/Farama-Foundation/SuperSuit/pull/228#issuecomment-1643456479) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+9. 💪 Opened PR [#230](https://github.com/Farama-Foundation/SuperSuit/pull/230) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+10. ❗ Opened issue [#229](https://github.com/Farama-Foundation/SuperSuit/issues/229) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
 <!--END_SECTION:activity-->
 
 
