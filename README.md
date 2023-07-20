@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/Farama-Foundation/SuperSuit/issues/213#issuecomment-1643360967) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-2. 🔒 Closed issue [#213](https://github.com/Farama-Foundation/SuperSuit/issues/213) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-3. 🔒 Closed issue [#188](https://github.com/Farama-Foundation/SuperSuit/issues/188) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-4. 🔒 Closed issue [#170](https://github.com/Farama-Foundation/SuperSuit/issues/170) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-5. 🔒 Closed issue [#83](https://github.com/Farama-Foundation/SuperSuit/issues/83) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-6. 🔒 Closed issue [#96](https://github.com/Farama-Foundation/SuperSuit/issues/96) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-7. 🗣 Commented on [#96](https://github.com/Farama-Foundation/SuperSuit/issues/96#issuecomment-1643346219) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-8. 🔒 Closed issue [#199](https://github.com/Farama-Foundation/SuperSuit/issues/199) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-9. 🗣 Commented on [#199](https://github.com/Farama-Foundation/SuperSuit/issues/199#issuecomment-1643337569) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-10. 🗣 Commented on [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216#issuecomment-1643334994) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+1. 🔒 Closed issue [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+2. 🗣 Commented on [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216#issuecomment-1643412007) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+3. 🗣 Commented on [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216#issuecomment-1643403517) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+4. 🗣 Commented on [#216](https://github.com/Farama-Foundation/SuperSuit/issues/216#issuecomment-1643399345) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+5. 🗣 Commented on [#213](https://github.com/Farama-Foundation/SuperSuit/issues/213#issuecomment-1643360967) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+6. 🔒 Closed issue [#213](https://github.com/Farama-Foundation/SuperSuit/issues/213) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+7. 🔒 Closed issue [#188](https://github.com/Farama-Foundation/SuperSuit/issues/188) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+8. 🔒 Closed issue [#170](https://github.com/Farama-Foundation/SuperSuit/issues/170) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+9. 🔒 Closed issue [#83](https://github.com/Farama-Foundation/SuperSuit/issues/83) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+10. 🔒 Closed issue [#96](https://github.com/Farama-Foundation/SuperSuit/issues/96) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
 <!--END_SECTION:activity-->
 
 
