@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/Farama-Foundation/Shimmy/pull/102) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 🗣 Commented on [#20](https://github.com/deepmind/lab2d/issues/20#issuecomment-1644899057) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
-3. 💪 Opened PR [#1035](https://github.com/Farama-Foundation/PettingZoo/pull/1035) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🚀 Published release [Shimmy 1.2.0](https://github.com/Farama-Foundation/Shimmy/releases/tag/v1.2.0) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 🚀 Published release [SuperSuit 3.9.0](https://github.com/Farama-Foundation/SuperSuit/releases/tag/3.9.0) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-6. 🎉 Merged PR [#1031](https://github.com/Farama-Foundation/PettingZoo/pull/1031) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🎉 Merged PR [#948](https://github.com/Farama-Foundation/PettingZoo/pull/948) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🎉 Merged PR [#1033](https://github.com/Farama-Foundation/PettingZoo/pull/1033) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🎉 Merged PR [#27](https://github.com/Umshini/Umshini-Client/pull/27) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. ❌ Closed PR [#1006](https://github.com/Farama-Foundation/PettingZoo/pull/1006) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#140](https://github.com/deepmind/meltingpot/issues/140#issuecomment-1644931352) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+2. 💪 Opened PR [#102](https://github.com/Farama-Foundation/Shimmy/pull/102) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 🗣 Commented on [#20](https://github.com/deepmind/lab2d/issues/20#issuecomment-1644899057) in [deepmind/lab2d](https://github.com/deepmind/lab2d)
+4. 💪 Opened PR [#1035](https://github.com/Farama-Foundation/PettingZoo/pull/1035) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🚀 Published release [Shimmy 1.2.0](https://github.com/Farama-Foundation/Shimmy/releases/tag/v1.2.0) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🚀 Published release [SuperSuit 3.9.0](https://github.com/Farama-Foundation/SuperSuit/releases/tag/3.9.0) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+7. 🎉 Merged PR [#1031](https://github.com/Farama-Foundation/PettingZoo/pull/1031) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🎉 Merged PR [#948](https://github.com/Farama-Foundation/PettingZoo/pull/948) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🎉 Merged PR [#1033](https://github.com/Farama-Foundation/PettingZoo/pull/1033) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🎉 Merged PR [#27](https://github.com/Umshini/Umshini-Client/pull/27) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
