@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-2. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-3. 🎉 Merged PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-4. 💪 Opened PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-5. 💪 Opened PR [#1047](https://github.com/Farama-Foundation/PettingZoo/pull/1047) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#104](https://github.com/Farama-Foundation/Shimmy/pull/104#issuecomment-1652048614) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-7. 🗣 Commented on [#104](https://github.com/Farama-Foundation/Shimmy/pull/104#issuecomment-1652027510) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 🗣 Commented on [#1046](https://github.com/Farama-Foundation/PettingZoo/pull/1046#issuecomment-1650639983) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🚀 Published release [v0.0.11](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.11) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 🗣 Commented on [#1046](https://github.com/Farama-Foundation/PettingZoo/pull/1046#issuecomment-1650321993) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1656010974) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+2. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1656005066) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+3. ❗ Opened issue [#58](https://github.com/chatarena/chatarena/issues/58) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+4. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1655989980) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+5. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+6. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+7. 🎉 Merged PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+8. 💪 Opened PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+9. 💪 Opened PR [#1047](https://github.com/Farama-Foundation/PettingZoo/pull/1047) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#104](https://github.com/Farama-Foundation/Shimmy/pull/104#issuecomment-1652048614) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
 <!--END_SECTION:activity-->
 
 
