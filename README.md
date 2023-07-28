@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1656010974) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-2. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1656005066) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-3. ❗ Opened issue [#58](https://github.com/chatarena/chatarena/issues/58) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-4. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1655989980) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
-5. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-6. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-7. 🎉 Merged PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-8. 💪 Opened PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 💪 Opened PR [#1047](https://github.com/Farama-Foundation/PettingZoo/pull/1047) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#104](https://github.com/Farama-Foundation/Shimmy/pull/104#issuecomment-1652048614) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+1. 🎉 Merged PR [#59](https://github.com/chatarena/chatarena/pull/59) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+2. 💪 Opened PR [#59](https://github.com/chatarena/chatarena/pull/59) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+3. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1656010974) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+4. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1656005066) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+5. ❗ Opened issue [#58](https://github.com/chatarena/chatarena/issues/58) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+6. 🗣 Commented on [#53](https://github.com/chatarena/chatarena/issues/53#issuecomment-1655989980) in [chatarena/chatarena](https://github.com/chatarena/chatarena)
+7. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+8. 🚀 Published release [v0.0.12](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.12) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+9. 🎉 Merged PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+10. 💪 Opened PR [#30](https://github.com/Umshini/Umshini-Client/pull/30) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
