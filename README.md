@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1686853907) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🚀 Published release [v0.0.17](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.17) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-3. 🚀 Published release [v0.0.16](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.16) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-4. 🎉 Merged PR [#34](https://github.com/Umshini/Umshini-Client/pull/34) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-5. 💪 Opened PR [#34](https://github.com/Umshini/Umshini-Client/pull/34) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+1. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1687045716) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1687038879) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1687035352) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1686853907) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🚀 Published release [v0.0.17](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.17) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 6. 🚀 Published release [v0.0.16](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.16) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-7. 🚀 Published release [v0.0.16](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.16) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-8. 🚀 Published release [v0.0.14](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.14) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1686785836) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1686459423) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#34](https://github.com/Umshini/Umshini-Client/pull/34) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+8. 💪 Opened PR [#34](https://github.com/Umshini/Umshini-Client/pull/34) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+9. 🚀 Published release [v0.0.16](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.16) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+10. 🚀 Published release [v0.0.16](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.16) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
