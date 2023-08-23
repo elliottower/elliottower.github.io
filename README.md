@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/Umshini/Umshini-Client/pull/43#issuecomment-1690643838) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-2. 🗣 Commented on [#58](https://github.com/codecov/feedback/issues/58#issuecomment-1690594290) in [codecov/feedback](https://github.com/codecov/feedback)
-3. ❗ Opened issue [#58](https://github.com/codecov/feedback/issues/58) in [codecov/feedback](https://github.com/codecov/feedback)
-4. 🗣 Commented on [#27](https://github.com/codecov/feedback/issues/27#issuecomment-1690584232) in [codecov/feedback](https://github.com/codecov/feedback)
-5. 💪 Opened PR [#43](https://github.com/Umshini/Umshini-Client/pull/43) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-6. 🎉 Merged PR [#42](https://github.com/Umshini/Umshini-Client/pull/42) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-7. 💪 Opened PR [#42](https://github.com/Umshini/Umshini-Client/pull/42) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-8. 🎉 Merged PR [#41](https://github.com/Umshini/Umshini-Client/pull/41) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 💪 Opened PR [#41](https://github.com/Umshini/Umshini-Client/pull/41) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 🎉 Merged PR [#39](https://github.com/Umshini/Umshini-Client/pull/39) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+1. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135#issuecomment-1690676063) in [matchai/waka-box](https://github.com/matchai/waka-box)
+2. 🗣 Commented on [#1072](https://github.com/Farama-Foundation/PettingZoo/issues/1072#issuecomment-1690674490) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#43](https://github.com/Umshini/Umshini-Client/pull/43#issuecomment-1690643838) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+4. 🗣 Commented on [#58](https://github.com/codecov/feedback/issues/58#issuecomment-1690594290) in [codecov/feedback](https://github.com/codecov/feedback)
+5. ❗ Opened issue [#58](https://github.com/codecov/feedback/issues/58) in [codecov/feedback](https://github.com/codecov/feedback)
+6. 🗣 Commented on [#27](https://github.com/codecov/feedback/issues/27#issuecomment-1690584232) in [codecov/feedback](https://github.com/codecov/feedback)
+7. 💪 Opened PR [#43](https://github.com/Umshini/Umshini-Client/pull/43) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+8. 🎉 Merged PR [#42](https://github.com/Umshini/Umshini-Client/pull/42) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+9. 💪 Opened PR [#42](https://github.com/Umshini/Umshini-Client/pull/42) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+10. 🎉 Merged PR [#41](https://github.com/Umshini/Umshini-Client/pull/41) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
