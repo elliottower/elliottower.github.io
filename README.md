@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/Umshini/Umshini-Client/pull/38) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-2. 💪 Opened PR [#37](https://github.com/Umshini/Umshini-Client/pull/37) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-3. ❌ Closed PR [#36](https://github.com/Umshini/Umshini-Client/pull/36) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-4. 🗣 Commented on [#36](https://github.com/Umshini/Umshini-Client/pull/36#issuecomment-1688538455) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-5. 💪 Opened PR [#36](https://github.com/Umshini/Umshini-Client/pull/36) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-6. 🎉 Merged PR [#35](https://github.com/Umshini/Umshini-Client/pull/35) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-7. 💪 Opened PR [#35](https://github.com/Umshini/Umshini-Client/pull/35) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-8. 🚀 Published release [PettingZoo 1.24.0](https://github.com/Farama-Foundation/PettingZoo/releases/tag/1.24.0) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🔒 Closed issue [#1070](https://github.com/Farama-Foundation/PettingZoo/issues/1070) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🎉 Merged PR [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🎉 Merged PR [#40](https://github.com/Umshini/Umshini-Client/pull/40) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+2. 💪 Opened PR [#40](https://github.com/Umshini/Umshini-Client/pull/40) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 🎉 Merged PR [#38](https://github.com/Umshini/Umshini-Client/pull/38) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+4. 💪 Opened PR [#39](https://github.com/Umshini/Umshini-Client/pull/39) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+5. 💪 Opened PR [#38](https://github.com/Umshini/Umshini-Client/pull/38) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+6. 💪 Opened PR [#37](https://github.com/Umshini/Umshini-Client/pull/37) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+7. ❌ Closed PR [#36](https://github.com/Umshini/Umshini-Client/pull/36) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+8. 🗣 Commented on [#36](https://github.com/Umshini/Umshini-Client/pull/36#issuecomment-1688538455) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+9. 💪 Opened PR [#36](https://github.com/Umshini/Umshini-Client/pull/36) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+10. 🎉 Merged PR [#35](https://github.com/Umshini/Umshini-Client/pull/35) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
