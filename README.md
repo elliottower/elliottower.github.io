@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1693504643) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1693496650) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#1072](https://github.com/Farama-Foundation/PettingZoo/issues/1072#issuecomment-1693485388) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693458171) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#901](https://github.com/instadeepai/Mava/issues/901#issuecomment-1693448939) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
-6. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1693438017) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#135](https://github.com/matchai/waka-box/issues/135#issuecomment-1690676063) in [matchai/waka-box](https://github.com/matchai/waka-box)
-8. 🗣 Commented on [#1072](https://github.com/Farama-Foundation/PettingZoo/issues/1072#issuecomment-1690674490) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#43](https://github.com/Umshini/Umshini-Client/pull/43#issuecomment-1690643838) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 🗣 Commented on [#58](https://github.com/codecov/feedback/issues/58#issuecomment-1690594290) in [codecov/feedback](https://github.com/codecov/feedback)
+1. ❗ Opened issue [#50](https://github.com/codecov/codecov-browser-extension/issues/50) in [codecov/codecov-browser-extension](https://github.com/codecov/codecov-browser-extension)
+2. 🗣 Commented on [#1073](https://github.com/Farama-Foundation/PettingZoo/issues/1073#issuecomment-1693565312) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693563827) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1693555203) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🎉 Merged PR [#43](https://github.com/Umshini/Umshini-Client/pull/43) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+6. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1693504643) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#1071](https://github.com/Farama-Foundation/PettingZoo/pull/1071#issuecomment-1693496650) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#1072](https://github.com/Farama-Foundation/PettingZoo/issues/1072#issuecomment-1693485388) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693458171) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#901](https://github.com/instadeepai/Mava/issues/901#issuecomment-1693448939) in [instadeepai/Mava](https://github.com/instadeepai/Mava)
 <!--END_SECTION:activity-->
 
 
