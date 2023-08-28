@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#106](https://github.com/Farama-Foundation/Shimmy/issues/106) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 🎉 Merged PR [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077#issuecomment-1694061455) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077#issuecomment-1694061116) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#1074](https://github.com/Farama-Foundation/PettingZoo/pull/1074#issuecomment-1694060705) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693712470) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693637074) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#50](https://github.com/codecov/codecov-browser-extension/issues/50#issuecomment-1693586055) in [codecov/codecov-browser-extension](https://github.com/codecov/codecov-browser-extension)
-9. ❗ Opened issue [#50](https://github.com/codecov/codecov-browser-extension/issues/50) in [codecov/codecov-browser-extension](https://github.com/codecov/codecov-browser-extension)
-10. 🗣 Commented on [#1073](https://github.com/Farama-Foundation/PettingZoo/issues/1073#issuecomment-1693565312) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🎉 Merged PR [#1074](https://github.com/Farama-Foundation/PettingZoo/pull/1074) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🗣 Commented on [#1074](https://github.com/Farama-Foundation/PettingZoo/pull/1074#issuecomment-1694910514) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 🔒 Closed issue [#106](https://github.com/Farama-Foundation/Shimmy/issues/106) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🎉 Merged PR [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077#issuecomment-1694061455) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077#issuecomment-1694061116) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🗣 Commented on [#1074](https://github.com/Farama-Foundation/PettingZoo/pull/1074#issuecomment-1694060705) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693712470) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#1076](https://github.com/Farama-Foundation/PettingZoo/pull/1076#issuecomment-1693637074) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#50](https://github.com/codecov/codecov-browser-extension/issues/50#issuecomment-1693586055) in [codecov/codecov-browser-extension](https://github.com/codecov/codecov-browser-extension)
 <!--END_SECTION:activity-->
 
 
