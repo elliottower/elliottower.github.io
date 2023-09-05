@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.18](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.18) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-2. 🎉 Merged PR [#47](https://github.com/Umshini/Umshini-Client/pull/47) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-3. 💪 Opened PR [#47](https://github.com/Umshini/Umshini-Client/pull/47) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-4. 🗣 Commented on [#108](https://github.com/Farama-Foundation/Shimmy/pull/108#issuecomment-1704626894) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-5. 🚀 Published release [PettingZoo 1.24.1](https://github.com/Farama-Foundation/PettingZoo/releases/tag/1.24.1) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🎉 Merged PR [#1083](https://github.com/Farama-Foundation/PettingZoo/pull/1083) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#108](https://github.com/Farama-Foundation/Shimmy/pull/108#issuecomment-1704602221) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-8. 🎉 Merged PR [#1084](https://github.com/Farama-Foundation/PettingZoo/pull/1084) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#72](https://github.com/NeuralMMO/environment/issues/72#issuecomment-1704592754) in [NeuralMMO/environment](https://github.com/NeuralMMO/environment)
-10. 🗣 Commented on [#1077](https://github.com/Farama-Foundation/PettingZoo/pull/1077#issuecomment-1703898590) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#182](https://github.com/Replicable-MARL/MARLlib/issues/182#issuecomment-1706937266) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
+2. 🚀 Published release [v0.0.18](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.18) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 🎉 Merged PR [#47](https://github.com/Umshini/Umshini-Client/pull/47) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+4. 💪 Opened PR [#47](https://github.com/Umshini/Umshini-Client/pull/47) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+5. 🗣 Commented on [#108](https://github.com/Farama-Foundation/Shimmy/pull/108#issuecomment-1704626894) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🚀 Published release [PettingZoo 1.24.1](https://github.com/Farama-Foundation/PettingZoo/releases/tag/1.24.1) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#1083](https://github.com/Farama-Foundation/PettingZoo/pull/1083) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#108](https://github.com/Farama-Foundation/Shimmy/pull/108#issuecomment-1704602221) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+9. 🎉 Merged PR [#1084](https://github.com/Farama-Foundation/PettingZoo/pull/1084) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🗣 Commented on [#72](https://github.com/NeuralMMO/environment/issues/72#issuecomment-1704592754) in [NeuralMMO/environment](https://github.com/NeuralMMO/environment)
 <!--END_SECTION:activity-->
 
 
