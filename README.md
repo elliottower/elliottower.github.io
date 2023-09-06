@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1087](https://github.com/Farama-Foundation/PettingZoo/pull/1087) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-2. 🗣 Commented on [#1085](https://github.com/Farama-Foundation/PettingZoo/issues/1085#issuecomment-1708890274) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-3. 🗣 Commented on [#1085](https://github.com/Farama-Foundation/PettingZoo/issues/1085#issuecomment-1708833395) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 💪 Opened PR [#1086](https://github.com/Farama-Foundation/PettingZoo/pull/1086) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. ❗ Opened issue [#8](https://github.com/rstrivedi/Melting-Pot-Contest-2023/issues/8) in [rstrivedi/Melting-Pot-Contest-2023](https://github.com/rstrivedi/Melting-Pot-Contest-2023)
-6. 🗣 Commented on [#113](https://github.com/deepmind/meltingpot/issues/113#issuecomment-1708465116) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
-7. 🗣 Commented on [#182](https://github.com/Replicable-MARL/MARLlib/issues/182#issuecomment-1706937266) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
-8. 🚀 Published release [v0.0.18](https://github.com/Umshini/Umshini-Client/releases/tag/v0.0.18) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 🎉 Merged PR [#47](https://github.com/Umshini/Umshini-Client/pull/47) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 💪 Opened PR [#47](https://github.com/Umshini/Umshini-Client/pull/47) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+1. 💪 Opened PR [#1089](https://github.com/Farama-Foundation/PettingZoo/pull/1089) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+2. 🎉 Merged PR [#1088](https://github.com/Farama-Foundation/PettingZoo/pull/1088) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+3. 💪 Opened PR [#1088](https://github.com/Farama-Foundation/PettingZoo/pull/1088) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+4. 💪 Opened PR [#1087](https://github.com/Farama-Foundation/PettingZoo/pull/1087) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#1085](https://github.com/Farama-Foundation/PettingZoo/issues/1085#issuecomment-1708890274) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#1085](https://github.com/Farama-Foundation/PettingZoo/issues/1085#issuecomment-1708833395) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 💪 Opened PR [#1086](https://github.com/Farama-Foundation/PettingZoo/pull/1086) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. ❗ Opened issue [#8](https://github.com/rstrivedi/Melting-Pot-Contest-2023/issues/8) in [rstrivedi/Melting-Pot-Contest-2023](https://github.com/rstrivedi/Melting-Pot-Contest-2023)
+9. 🗣 Commented on [#113](https://github.com/deepmind/meltingpot/issues/113#issuecomment-1708465116) in [deepmind/meltingpot](https://github.com/deepmind/meltingpot)
+10. 🗣 Commented on [#182](https://github.com/Replicable-MARL/MARLlib/issues/182#issuecomment-1706937266) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
 <!--END_SECTION:activity-->
 
 
