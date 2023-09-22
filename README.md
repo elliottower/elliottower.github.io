@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/Farama-Foundation/chatarena/pull/66) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-2. 💪 Opened PR [#66](https://github.com/Farama-Foundation/chatarena/pull/66) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-3. 💪 Opened PR [#50](https://github.com/Umshini/Umshini-Client/pull/50) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-4. 🗣 Commented on [#32889](https://github.com/ray-project/ray/issues/32889#issuecomment-1729975267) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229#issuecomment-1727816007) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
-6. 🗣 Commented on [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229#issuecomment-1727794699) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
-7. 🗣 Commented on [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102#issuecomment-1723479117) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🎉 Merged PR [#1103](https://github.com/Farama-Foundation/PettingZoo/pull/1103) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🗣 Commented on [#1104](https://github.com/Farama-Foundation/PettingZoo/issues/1104#issuecomment-1722746879) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102#issuecomment-1722739129) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229#issuecomment-1731327099) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+2. 🗣 Commented on [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229#issuecomment-1731314941) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+3. 🎉 Merged PR [#66](https://github.com/Farama-Foundation/chatarena/pull/66) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+4. 💪 Opened PR [#66](https://github.com/Farama-Foundation/chatarena/pull/66) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+5. 💪 Opened PR [#50](https://github.com/Umshini/Umshini-Client/pull/50) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+6. 🗣 Commented on [#32889](https://github.com/ray-project/ray/issues/32889#issuecomment-1729975267) in [ray-project/ray](https://github.com/ray-project/ray)
+7. 🗣 Commented on [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229#issuecomment-1727816007) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+8. 🗣 Commented on [#229](https://github.com/Lux-AI-Challenge/Lux-Design-S2/issues/229#issuecomment-1727794699) in [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+9. 🗣 Commented on [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102#issuecomment-1723479117) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🎉 Merged PR [#1103](https://github.com/Farama-Foundation/PettingZoo/pull/1103) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
