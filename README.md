@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1743084792) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1741213180) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1741004093) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🗣 Commented on [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102#issuecomment-1738049732) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🔒 Closed issue [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🎉 Merged PR [#1110](https://github.com/Farama-Foundation/PettingZoo/pull/1110) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#1109](https://github.com/Farama-Foundation/PettingZoo/pull/1109#issuecomment-1738043083) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🗣 Commented on [#23129](https://github.com/conda-forge/staged-recipes/issues/23129#issuecomment-1737970155) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-9. 🗣 Commented on [#494](https://github.com/Farama-Foundation/Arcade-Learning-Environment/issues/494#issuecomment-1737968145) in [Farama-Foundation/Arcade-Learning-Environment](https://github.com/Farama-Foundation/Arcade-Learning-Environment)
-10. 🗣 Commented on [#1104](https://github.com/Farama-Foundation/PettingZoo/issues/1104#issuecomment-1737965064) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#52](https://github.com/Umshini/Umshini-Client/pull/52) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+2. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1743084792) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1741213180) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1741004093) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🗣 Commented on [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102#issuecomment-1738049732) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🔒 Closed issue [#1102](https://github.com/Farama-Foundation/PettingZoo/issues/1102) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#1110](https://github.com/Farama-Foundation/PettingZoo/pull/1110) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+8. 🗣 Commented on [#1109](https://github.com/Farama-Foundation/PettingZoo/pull/1109#issuecomment-1738043083) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#23129](https://github.com/conda-forge/staged-recipes/issues/23129#issuecomment-1737970155) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+10. 🗣 Commented on [#494](https://github.com/Farama-Foundation/Arcade-Learning-Environment/issues/494#issuecomment-1737968145) in [Farama-Foundation/Arcade-Learning-Environment](https://github.com/Farama-Foundation/Arcade-Learning-Environment)
 <!--END_SECTION:activity-->
 
 
