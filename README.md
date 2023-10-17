@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](https://github.com/Farama-Foundation/Shimmy/pull/113) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-2. 🔒 Closed issue [#109](https://github.com/Farama-Foundation/Shimmy/issues/109) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-3. 🎉 Merged PR [#111](https://github.com/Farama-Foundation/Shimmy/pull/111) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
-4. 🗣 Commented on [#1117](https://github.com/Farama-Foundation/PettingZoo/issues/1117#issuecomment-1764716940) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🎉 Merged PR [#1](https://github.com/Umshini/Umshini-House-Bots/pull/1) in [Umshini/Umshini-House-Bots](https://github.com/Umshini/Umshini-House-Bots)
-6. 💪 Opened PR [#1](https://github.com/Umshini/Umshini-House-Bots/pull/1) in [Umshini/Umshini-House-Bots](https://github.com/Umshini/Umshini-House-Bots)
-7. 🔒 Closed issue [#1113](https://github.com/Farama-Foundation/PettingZoo/issues/1113) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-8. 🎉 Merged PR [#1116](https://github.com/Farama-Foundation/PettingZoo/pull/1116) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-9. 🎉 Merged PR [#1112](https://github.com/Farama-Foundation/PettingZoo/pull/1112) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 💪 Opened PR [#1116](https://github.com/Farama-Foundation/PettingZoo/pull/1116) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🔒 Closed issue [#110](https://github.com/Farama-Foundation/Shimmy/issues/110) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+2. 🗣 Commented on [#111](https://github.com/Farama-Foundation/Shimmy/pull/111#issuecomment-1766682734) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+3. 💪 Opened PR [#113](https://github.com/Farama-Foundation/Shimmy/pull/113) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+4. 🔒 Closed issue [#109](https://github.com/Farama-Foundation/Shimmy/issues/109) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+5. 🎉 Merged PR [#111](https://github.com/Farama-Foundation/Shimmy/pull/111) in [Farama-Foundation/Shimmy](https://github.com/Farama-Foundation/Shimmy)
+6. 🗣 Commented on [#1117](https://github.com/Farama-Foundation/PettingZoo/issues/1117#issuecomment-1764716940) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#1](https://github.com/Umshini/Umshini-House-Bots/pull/1) in [Umshini/Umshini-House-Bots](https://github.com/Umshini/Umshini-House-Bots)
+8. 💪 Opened PR [#1](https://github.com/Umshini/Umshini-House-Bots/pull/1) in [Umshini/Umshini-House-Bots](https://github.com/Umshini/Umshini-House-Bots)
+9. 🔒 Closed issue [#1113](https://github.com/Farama-Foundation/PettingZoo/issues/1113) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+10. 🎉 Merged PR [#1116](https://github.com/Farama-Foundation/PettingZoo/pull/1116) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
