@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773277414) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-2. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773276652) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-3. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773263162) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-4. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1772911029) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-5. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1772907029) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-6. 🗣 Commented on [#1121](https://github.com/Farama-Foundation/PettingZoo/pull/1121#issuecomment-1772897921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-7. 🗣 Commented on [#7721](https://github.com/aws/aws-cli/issues/7721#issuecomment-1771294746) in [aws/aws-cli](https://github.com/aws/aws-cli)
-8. 🎉 Merged PR [#55](https://github.com/Umshini/Umshini-Client/pull/55) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-9. 💪 Opened PR [#55](https://github.com/Umshini/Umshini-Client/pull/55) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-10. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1771001500) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+1. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773377790) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+2. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773372827) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+3. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773277414) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+4. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773276652) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+5. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773263162) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+6. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1772911029) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+7. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1772907029) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+8. 🗣 Commented on [#1121](https://github.com/Farama-Foundation/PettingZoo/pull/1121#issuecomment-1772897921) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+9. 🗣 Commented on [#7721](https://github.com/aws/aws-cli/issues/7721#issuecomment-1771294746) in [aws/aws-cli](https://github.com/aws/aws-cli)
+10. 🎉 Merged PR [#55](https://github.com/Umshini/Umshini-Client/pull/55) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
