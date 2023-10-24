@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1776181113) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-2. ❌ Closed PR [#86](https://github.com/Farama-Foundation/farama.org/pull/86) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-3. 🗣 Commented on [#86](https://github.com/Farama-Foundation/farama.org/pull/86#issuecomment-1776085486) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-4. 💪 Opened PR [#86](https://github.com/Farama-Foundation/farama.org/pull/86) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-5. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1774178272) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-6. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773377790) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-7. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773372827) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-8. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773277414) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-9. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773276652) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-10. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773263162) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+1. 💪 Opened PR [#67](https://github.com/Farama-Foundation/chatarena/pull/67) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+2. 🗣 Commented on [#56](https://github.com/Umshini/Umshini-Client/pull/56#issuecomment-1778203870) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+3. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1776181113) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+4. ❌ Closed PR [#86](https://github.com/Farama-Foundation/farama.org/pull/86) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+5. 🗣 Commented on [#86](https://github.com/Farama-Foundation/farama.org/pull/86#issuecomment-1776085486) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+6. 💪 Opened PR [#86](https://github.com/Farama-Foundation/farama.org/pull/86) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
+7. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1774178272) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+8. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773377790) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+9. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773372827) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+10. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1773277414) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
 <!--END_SECTION:activity-->
 
 
