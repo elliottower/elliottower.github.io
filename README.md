@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Umshini/Umshini-Starter/pull/4) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-2. 💪 Opened PR [#4](https://github.com/Umshini/Umshini-Starter/pull/4) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-3. 💪 Opened PR [#68](https://github.com/Farama-Foundation/chatarena/pull/68) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-4. 💪 Opened PR [#67](https://github.com/Farama-Foundation/chatarena/pull/67) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-5. 🗣 Commented on [#56](https://github.com/Umshini/Umshini-Client/pull/56#issuecomment-1778203870) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
-6. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1776181113) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
-7. ❌ Closed PR [#86](https://github.com/Farama-Foundation/farama.org/pull/86) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-8. 🗣 Commented on [#86](https://github.com/Farama-Foundation/farama.org/pull/86#issuecomment-1776085486) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-9. 💪 Opened PR [#86](https://github.com/Farama-Foundation/farama.org/pull/86) in [Farama-Foundation/farama.org](https://github.com/Farama-Foundation/farama.org)
-10. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1774178272) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+1. 💪 Opened PR [#157](https://github.com/Farama-Foundation/Minari/pull/157) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+2. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1781211909) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+3. 🗣 Commented on [#153](https://github.com/Farama-Foundation/Minari/pull/153#issuecomment-1781210422) in [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari)
+4. 🗣 Commented on [#1122](https://github.com/Farama-Foundation/PettingZoo/issues/1122#issuecomment-1781201573) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🔒 Closed issue [#1122](https://github.com/Farama-Foundation/PettingZoo/issues/1122) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🎉 Merged PR [#4](https://github.com/Umshini/Umshini-Starter/pull/4) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+7. 💪 Opened PR [#4](https://github.com/Umshini/Umshini-Starter/pull/4) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+8. 💪 Opened PR [#68](https://github.com/Farama-Foundation/chatarena/pull/68) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+9. 💪 Opened PR [#67](https://github.com/Farama-Foundation/chatarena/pull/67) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+10. 🗣 Commented on [#56](https://github.com/Umshini/Umshini-Client/pull/56#issuecomment-1778203870) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
 <!--END_SECTION:activity-->
 
 
