@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Umshini/Umshini-Starter/pull/7) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-2. 💪 Opened PR [#7](https://github.com/Umshini/Umshini-Starter/pull/7) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
-3. 🎉 Merged PR [#1130](https://github.com/Farama-Foundation/PettingZoo/pull/1130) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-4. 🗣 Commented on [#1130](https://github.com/Farama-Foundation/PettingZoo/pull/1130#issuecomment-1804039375) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-5. 🗣 Commented on [#1130](https://github.com/Farama-Foundation/PettingZoo/pull/1130#issuecomment-1804036144) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🎉 Merged PR [#75](https://github.com/Farama-Foundation/chatarena/pull/75) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-7. 💪 Opened PR [#75](https://github.com/Farama-Foundation/chatarena/pull/75) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-8. 🗣 Commented on [#182](https://github.com/Replicable-MARL/MARLlib/issues/182#issuecomment-1802429129) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
-9. 🗣 Commented on [#1118](https://github.com/Farama-Foundation/PettingZoo/pull/1118#issuecomment-1800304471) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-10. 🗣 Commented on [#1125](https://github.com/Farama-Foundation/PettingZoo/issues/1125#issuecomment-1800297072) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#57](https://github.com/Umshini/Umshini-Client/pull/57) in [Umshini/Umshini-Client](https://github.com/Umshini/Umshini-Client)
+2. 🎉 Merged PR [#7](https://github.com/Umshini/Umshini-Starter/pull/7) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+3. 💪 Opened PR [#7](https://github.com/Umshini/Umshini-Starter/pull/7) in [Umshini/Umshini-Starter](https://github.com/Umshini/Umshini-Starter)
+4. 🎉 Merged PR [#1130](https://github.com/Farama-Foundation/PettingZoo/pull/1130) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+5. 🗣 Commented on [#1130](https://github.com/Farama-Foundation/PettingZoo/pull/1130#issuecomment-1804039375) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+6. 🗣 Commented on [#1130](https://github.com/Farama-Foundation/PettingZoo/pull/1130#issuecomment-1804036144) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+7. 🎉 Merged PR [#75](https://github.com/Farama-Foundation/chatarena/pull/75) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+8. 💪 Opened PR [#75](https://github.com/Farama-Foundation/chatarena/pull/75) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+9. 🗣 Commented on [#182](https://github.com/Replicable-MARL/MARLlib/issues/182#issuecomment-1802429129) in [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib)
+10. 🗣 Commented on [#1118](https://github.com/Farama-Foundation/PettingZoo/pull/1118#issuecomment-1800304471) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
