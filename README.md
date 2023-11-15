@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Farama-Foundation/chatarena/issues/23#issuecomment-1811654984) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-2. 🔒 Closed issue [#23](https://github.com/Farama-Foundation/chatarena/issues/23) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-3. 🔒 Closed issue [#14](https://github.com/Farama-Foundation/chatarena/issues/14) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-4. 🗣 Commented on [#62](https://github.com/Farama-Foundation/chatarena/pull/62#issuecomment-1811653949) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-5. 🔒 Closed issue [#74](https://github.com/Farama-Foundation/chatarena/issues/74) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-6. 🎉 Merged PR [#80](https://github.com/Farama-Foundation/chatarena/pull/80) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-7. 🗣 Commented on [#51](https://github.com/Farama-Foundation/chatarena/issues/51#issuecomment-1811650321) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-8. ❗ Opened issue [#81](https://github.com/Farama-Foundation/chatarena/issues/81) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-9. 🗣 Commented on [#53](https://github.com/Farama-Foundation/chatarena/issues/53#issuecomment-1811646962) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-10. 🔒 Closed issue [#53](https://github.com/Farama-Foundation/chatarena/issues/53) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+1. 🗣 Commented on [#51](https://github.com/Farama-Foundation/chatarena/issues/51#issuecomment-1811666425) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+2. 🗣 Commented on [#65](https://github.com/Farama-Foundation/chatarena/pull/65#issuecomment-1811660384) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+3. 🗣 Commented on [#60](https://github.com/Farama-Foundation/chatarena/issues/60#issuecomment-1811659280) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+4. 🔒 Closed issue [#60](https://github.com/Farama-Foundation/chatarena/issues/60) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+5. 🗣 Commented on [#62](https://github.com/Farama-Foundation/chatarena/pull/62#issuecomment-1811658920) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+6. ❌ Closed PR [#62](https://github.com/Farama-Foundation/chatarena/pull/62) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+7. 🗣 Commented on [#81](https://github.com/Farama-Foundation/chatarena/issues/81#issuecomment-1811655983) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+8. 🗣 Commented on [#23](https://github.com/Farama-Foundation/chatarena/issues/23#issuecomment-1811654984) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+9. 🔒 Closed issue [#23](https://github.com/Farama-Foundation/chatarena/issues/23) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+10. 🔒 Closed issue [#14](https://github.com/Farama-Foundation/chatarena/issues/14) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
 <!--END_SECTION:activity-->
 
 
