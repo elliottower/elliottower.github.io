@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.13.3](https://github.com/Farama-Foundation/chatarena/releases/tag/v0.1.13.3) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-2. 🎉 Merged PR [#94](https://github.com/Farama-Foundation/chatarena/pull/94) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-3. 💪 Opened PR [#94](https://github.com/Farama-Foundation/chatarena/pull/94) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-4. 🎉 Merged PR [#93](https://github.com/Farama-Foundation/chatarena/pull/93) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-5. 💪 Opened PR [#93](https://github.com/Farama-Foundation/chatarena/pull/93) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-6. 🚀 Published release [v0.1.13.2](https://github.com/Farama-Foundation/chatarena/releases/tag/v0.1.13.2) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-7. 🎉 Merged PR [#92](https://github.com/Farama-Foundation/chatarena/pull/92) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-8. 💪 Opened PR [#92](https://github.com/Farama-Foundation/chatarena/pull/92) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-9. 🎉 Merged PR [#91](https://github.com/Farama-Foundation/chatarena/pull/91) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
-10. 💪 Opened PR [#91](https://github.com/Farama-Foundation/chatarena/pull/91) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+1. 🗣 Commented on [#81](https://github.com/Farama-Foundation/chatarena/issues/81#issuecomment-1817299712) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+2. 🚀 Published release [v0.1.13.3](https://github.com/Farama-Foundation/chatarena/releases/tag/v0.1.13.3) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+3. 🎉 Merged PR [#94](https://github.com/Farama-Foundation/chatarena/pull/94) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+4. 💪 Opened PR [#94](https://github.com/Farama-Foundation/chatarena/pull/94) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+5. 🎉 Merged PR [#93](https://github.com/Farama-Foundation/chatarena/pull/93) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+6. 💪 Opened PR [#93](https://github.com/Farama-Foundation/chatarena/pull/93) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+7. 🚀 Published release [v0.1.13.2](https://github.com/Farama-Foundation/chatarena/releases/tag/v0.1.13.2) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+8. 🎉 Merged PR [#92](https://github.com/Farama-Foundation/chatarena/pull/92) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+9. 💪 Opened PR [#92](https://github.com/Farama-Foundation/chatarena/pull/92) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
+10. 🎉 Merged PR [#91](https://github.com/Farama-Foundation/chatarena/pull/91) in [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)
 <!--END_SECTION:activity-->
 
 
