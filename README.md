@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/Farama-Foundation/SuperSuit/pull/243) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-2. 🗣 Commented on [#242](https://github.com/Farama-Foundation/SuperSuit/pull/242#issuecomment-1898955614) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-3. ❌ Closed PR [#242](https://github.com/Farama-Foundation/SuperSuit/pull/242) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-4. 💪 Opened PR [#243](https://github.com/Farama-Foundation/SuperSuit/pull/243) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-5. 🚀 Published release [PettingZoo 1.24.3](https://github.com/Farama-Foundation/PettingZoo/releases/tag/1.24.3) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
-6. 🗣 Commented on [#242](https://github.com/Farama-Foundation/SuperSuit/pull/242#issuecomment-1898902449) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-7. 🗣 Commented on [#242](https://github.com/Farama-Foundation/SuperSuit/pull/242#issuecomment-1898900991) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
-8. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1898773076) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-9. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1898766723) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
-10. 🗣 Commented on [#408](https://github.com/vwxyzjn/cleanrl/pull/408#issuecomment-1898714916) in [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl)
+1. 🗣 Commented on [#241](https://github.com/Farama-Foundation/SuperSuit/issues/241#issuecomment-1899065266) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+2. 🔒 Closed issue [#241](https://github.com/Farama-Foundation/SuperSuit/issues/241) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+3. 🚀 Published release [SuperSuit 3.9.2](https://github.com/Farama-Foundation/SuperSuit/releases/tag/3.9.2) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+4. 🔒 Closed issue [#239](https://github.com/Farama-Foundation/SuperSuit/issues/239) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+5. 🎉 Merged PR [#240](https://github.com/Farama-Foundation/SuperSuit/pull/240) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+6. 🎉 Merged PR [#243](https://github.com/Farama-Foundation/SuperSuit/pull/243) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+7. 🗣 Commented on [#242](https://github.com/Farama-Foundation/SuperSuit/pull/242#issuecomment-1898955614) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+8. ❌ Closed PR [#242](https://github.com/Farama-Foundation/SuperSuit/pull/242) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+9. 💪 Opened PR [#243](https://github.com/Farama-Foundation/SuperSuit/pull/243) in [Farama-Foundation/SuperSuit](https://github.com/Farama-Foundation/SuperSuit)
+10. 🚀 Published release [PettingZoo 1.24.3](https://github.com/Farama-Foundation/PettingZoo/releases/tag/1.24.3) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 <!--END_SECTION:activity-->
 
 
