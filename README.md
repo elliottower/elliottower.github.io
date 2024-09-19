@@ -37,7 +37,7 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1192](https://github.com/Farama-Foundation/PettingZoo/pull/1192) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 💪 Opened PR [#805](https://github.com/langfuse/langfuse-docs/pull/805) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
 2. 🔒 Closed issue [#1147](https://github.com/Farama-Foundation/PettingZoo/issues/1147) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 3. 🎉 Merged PR [#1203](https://github.com/Farama-Foundation/PettingZoo/pull/1203) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 4. 🗣 Commented on [#1203](https://github.com/Farama-Foundation/PettingZoo/pull/1203#issuecomment-2093792577) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
