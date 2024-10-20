@@ -37,10 +37,10 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2363497468) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-2. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2362832047) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-3. 💪 Opened PR [#805](https://github.com/langfuse/langfuse-docs/pull/805) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-4. 🗣 Commented on [#1203](https://github.com/Farama-Foundation/PettingZoo/pull/1203#issuecomment-2093792577) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. 🗣 Commented on [#3241](https://github.com/langfuse/langfuse/issues/3241#issuecomment-2424357123) in [langfuse/langfuse](https://github.com/langfuse/langfuse)
+2. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2363497468) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+3. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2362832047) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+4. 💪 Opened PR [#805](https://github.com/langfuse/langfuse-docs/pull/805) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
 5. 🎉 Merged PR [#1194](https://github.com/Farama-Foundation/PettingZoo/pull/1194) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 6. 🎉 Merged PR [#1198](https://github.com/Farama-Foundation/PettingZoo/pull/1198) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 7. 🔒 Closed issue [#1146](https://github.com/Farama-Foundation/PettingZoo/issues/1146) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
