@@ -37,12 +37,12 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25390](https://github.com/dagster-io/dagster/issues/25390#issuecomment-2429779801) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-2. 🗣 Commented on [#3241](https://github.com/langfuse/langfuse/issues/3241#issuecomment-2424357123) in [langfuse/langfuse](https://github.com/langfuse/langfuse)
-3. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2363497468) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-4. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2362832047) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-5. 💪 Opened PR [#805](https://github.com/langfuse/langfuse-docs/pull/805) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-6. 🎉 Merged PR [#1198](https://github.com/Farama-Foundation/PettingZoo/pull/1198) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+1. ❗ Opened issue [#6565](https://github.com/HumanSignal/label-studio/issues/6565) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+2. 🗣 Commented on [#25390](https://github.com/dagster-io/dagster/issues/25390#issuecomment-2429779801) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+3. 🗣 Commented on [#3241](https://github.com/langfuse/langfuse/issues/3241#issuecomment-2424357123) in [langfuse/langfuse](https://github.com/langfuse/langfuse)
+4. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2363497468) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+5. 🗣 Commented on [#805](https://github.com/langfuse/langfuse-docs/pull/805#issuecomment-2362832047) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+6. 💪 Opened PR [#805](https://github.com/langfuse/langfuse-docs/pull/805) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
 7. 🔒 Closed issue [#1146](https://github.com/Farama-Foundation/PettingZoo/issues/1146) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 8. 🗣 Commented on [#1197](https://github.com/Farama-Foundation/PettingZoo/issues/1197#issuecomment-2027387710) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 9. 🎉 Merged PR [#1196](https://github.com/Farama-Foundation/PettingZoo/pull/1196) in [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
