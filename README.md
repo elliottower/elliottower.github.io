@@ -37,16 +37,16 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1141](https://github.com/langfuse/langfuse-docs/pull/1141#issuecomment-2567180300) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-2. 💪 Opened PR [#1141](https://github.com/langfuse/langfuse-docs/pull/1141) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-3. ❗ Opened issue [#26669](https://github.com/dagster-io/dagster/issues/26669) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-4. 💪 Opened PR [#26665](https://github.com/dagster-io/dagster/pull/26665) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-5. 🗣 Commented on [#26664](https://github.com/dagster-io/dagster/issues/26664#issuecomment-2558292734) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-6. ❗ Opened issue [#26664](https://github.com/dagster-io/dagster/issues/26664) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-7. 🗣 Commented on [#3986](https://github.com/lwouis/alt-tab-macos/issues/3986#issuecomment-2558243664) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-8. ❗ Opened issue [#26661](https://github.com/dagster-io/dagster/issues/26661) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-9. ❗ Opened issue [#25918](https://github.com/dagster-io/dagster/issues/25918) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-10. ❗ Opened issue [#6565](https://github.com/HumanSignal/label-studio/issues/6565) in [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+1. ❗ Opened issue [#26789](https://github.com/dagster-io/dagster/issues/26789) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+2. 🗣 Commented on [#1141](https://github.com/langfuse/langfuse-docs/pull/1141#issuecomment-2567180300) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+3. 💪 Opened PR [#1141](https://github.com/langfuse/langfuse-docs/pull/1141) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+4. ❗ Opened issue [#26669](https://github.com/dagster-io/dagster/issues/26669) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+5. 💪 Opened PR [#26665](https://github.com/dagster-io/dagster/pull/26665) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+6. 🗣 Commented on [#26664](https://github.com/dagster-io/dagster/issues/26664#issuecomment-2558292734) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+7. ❗ Opened issue [#26664](https://github.com/dagster-io/dagster/issues/26664) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+8. 🗣 Commented on [#3986](https://github.com/lwouis/alt-tab-macos/issues/3986#issuecomment-2558243664) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+9. ❗ Opened issue [#26661](https://github.com/dagster-io/dagster/issues/26661) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
+10. ❗ Opened issue [#25918](https://github.com/dagster-io/dagster/issues/25918) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
 <!--END_SECTION:activity-->
 
 
