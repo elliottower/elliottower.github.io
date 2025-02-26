@@ -37,10 +37,10 @@ To learn more, see [Announcing the Farama Foundation](https://farama.org/Announc
 ### ⚡ [Recent Activity (GitHub)](https://github.com/elliottower)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15468](https://github.com/dagster-io/dagster/issues/15468#issuecomment-2643336411) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-2. 🗣 Commented on [#26665](https://github.com/dagster-io/dagster/pull/26665#issuecomment-2588486345) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
-3. 🗣 Commented on [#1141](https://github.com/langfuse/langfuse-docs/pull/1141#issuecomment-2567180300) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
-4. 💪 Opened PR [#1141](https://github.com/langfuse/langfuse-docs/pull/1141) in [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs)
+1. ❗ Opened issue [#14351](https://github.com/langgenius/dify/issues/14351) in [langgenius/dify](https://github.com/langgenius/dify)
+2. ❗ Opened issue [#14350](https://github.com/langgenius/dify/issues/14350) in [langgenius/dify](https://github.com/langgenius/dify)
+3. ❗ Opened issue [#14349](https://github.com/langgenius/dify/issues/14349) in [langgenius/dify](https://github.com/langgenius/dify)
+4. 🗣 Commented on [#15468](https://github.com/dagster-io/dagster/issues/15468#issuecomment-2643336411) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
 5. ❗ Opened issue [#26669](https://github.com/dagster-io/dagster/issues/26669) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
 6. 💪 Opened PR [#26665](https://github.com/dagster-io/dagster/pull/26665) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
 7. 🗣 Commented on [#26664](https://github.com/dagster-io/dagster/issues/26664#issuecomment-2558292734) in [dagster-io/dagster](https://github.com/dagster-io/dagster)
